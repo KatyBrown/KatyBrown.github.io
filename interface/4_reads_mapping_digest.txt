@@ -1,0 +1,180 @@
+Loading data....
+
+Loaded 40,000 reads
+Mapping reads...
+
+1 / 43: Mapping reads to Intestinibacter bartlettii
+0 reads identified matching Intestinibacter bartlettii
+0 reads identified in total
+
+2 / 43: Mapping reads to Treponema succinifaciens
+0 reads identified matching Treponema succinifaciens
+0 reads identified in total
+
+3 / 43: Mapping reads to Lysinibacillus fusiformis
+0 reads identified matching Lysinibacillus fusiformis
+0 reads identified in total
+
+4 / 43: Mapping reads to Massilioclostridium coli
+0 reads identified matching Massilioclostridium coli
+0 reads identified in total
+
+5 / 43: Mapping reads to Desulfotomaculum guttoideum
+360 reads identified matching Desulfotomaculum guttoideum
+360 reads identified in total
+
+6 / 43: Mapping reads to Megamonas funiformis
+0 reads identified matching Megamonas funiformis
+360 reads identified in total
+
+7 / 43: Mapping reads to Coprococcus comes
+284 reads identified matching Coprococcus comes
+644 reads identified in total
+
+8 / 43: Mapping reads to Catenibacterium mitsuokai
+0 reads identified matching Catenibacterium mitsuokai
+644 reads identified in total
+
+9 / 43: Mapping reads to Adlercreutzia equolifaciens
+0 reads identified matching Adlercreutzia equolifaciens
+644 reads identified in total
+
+10 / 43: Mapping reads to Lentimicrobium saccharophilum
+0 reads identified matching Lentimicrobium saccharophilum
+644 reads identified in total
+
+11 / 43: Mapping reads to Eubacterium oxidoreducens
+802 reads identified matching Eubacterium oxidoreducens
+1446 reads identified in total
+
+12 / 43: Mapping reads to Lactobacillus curvatus
+21 reads identified matching Lactobacillus curvatus
+1467 reads identified in total
+
+13 / 43: Mapping reads to Ruminococcus flavefaciens
+0 reads identified matching Ruminococcus flavefaciens
+1467 reads identified in total
+
+14 / 43: Mapping reads to Ruminococcus champanellensis
+0 reads identified matching Ruminococcus champanellensis
+1467 reads identified in total
+
+15 / 43: Mapping reads to Roseburia hominis
+581 reads identified matching Roseburia hominis
+2048 reads identified in total
+
+16 / 43: Mapping reads to Pseudomonas fluorescens
+0 reads identified matching Pseudomonas fluorescens
+2048 reads identified in total
+
+17 / 43: Mapping reads to Muribaculum intestinale
+890 reads identified matching Muribaculum intestinale
+2938 reads identified in total
+
+18 / 43: Mapping reads to Dialister succinatiphilus
+0 reads identified matching Dialister succinatiphilus
+2938 reads identified in total
+
+19 / 43: Mapping reads to Bacteroides vulgatus
+0 reads identified matching Bacteroides vulgatus
+2938 reads identified in total
+
+20 / 43: Mapping reads to Butyricicoccus pullicaecorum
+0 reads identified matching Butyricicoccus pullicaecorum
+2938 reads identified in total
+
+21 / 43: Mapping reads to Enterococcus hirae
+0 reads identified matching Enterococcus hirae
+2938 reads identified in total
+
+22 / 43: Mapping reads to Anaerotignum neopropionicum
+0 reads identified matching Anaerotignum neopropionicum
+2938 reads identified in total
+
+23 / 43: Mapping reads to Clostridium ventriculi
+606 reads identified matching Clostridium ventriculi
+3544 reads identified in total
+
+24 / 43: Mapping reads to Prevotella copri
+7 reads identified matching Prevotella copri
+3551 reads identified in total
+
+25 / 43: Mapping reads to Kiritimatiella glycovorans
+0 reads identified matching Kiritimatiella glycovorans
+3551 reads identified in total
+
+26 / 43: Mapping reads to Clostridium saccharolyticum
+0 reads identified matching Clostridium saccharolyticum
+3551 reads identified in total
+
+27 / 43: Mapping reads to Pseudomonas nitroreducens
+4 reads identified matching Pseudomonas nitroreducens
+3555 reads identified in total
+
+28 / 43: Mapping reads to Christensenella massiliensis
+0 reads identified matching Christensenella massiliensis
+3555 reads identified in total
+
+29 / 43: Mapping reads to Akkermansia muciniphila
+0 reads identified matching Akkermansia muciniphila
+3555 reads identified in total
+
+30 / 43: Mapping reads to Escherichia coli
+0 reads identified matching Escherichia coli
+3555 reads identified in total
+
+31 / 43: Mapping reads to Sporobacter termitidis
+1032 reads identified matching Sporobacter termitidis
+4587 reads identified in total
+
+32 / 43: Mapping reads to Anaerostipes hadrus
+0 reads identified matching Anaerostipes hadrus
+4587 reads identified in total
+
+33 / 43: Mapping reads to Collinsella intestinalis
+0 reads identified matching Collinsella intestinalis
+4587 reads identified in total
+
+34 / 43: Mapping reads to Turicibacter sanguinis
+0 reads identified matching Turicibacter sanguinis
+4587 reads identified in total
+
+35 / 43: Mapping reads to Brevundimonas naejangsanensis
+0 reads identified matching Brevundimonas naejangsanensis
+4587 reads identified in total
+
+36 / 43: Mapping reads to Glutamicibacter arilaitensis
+0 reads identified matching Glutamicibacter arilaitensis
+4587 reads identified in total
+
+37 / 43: Mapping reads to Spirulina major
+0 reads identified matching Spirulina major
+4587 reads identified in total
+
+38 / 43: Mapping reads to Robinsoniella peoriensis
+0 reads identified matching Robinsoniella peoriensis
+4587 reads identified in total
+
+39 / 43: Mapping reads to Comamonas kerstersii
+0 reads identified matching Comamonas kerstersii
+4587 reads identified in total
+
+40 / 43: Mapping reads to Paludibacter propionicigenes
+0 reads identified matching Paludibacter propionicigenes
+4587 reads identified in total
+
+41 / 43: Mapping reads to Cetobacterium somerae
+0 reads identified matching Cetobacterium somerae
+4587 reads identified in total
+
+42 / 43: Mapping reads to Ruminococcus lactaris
+0 reads identified matching Ruminococcus lactaris
+4587 reads identified in total
+
+43 / 43: Mapping reads to Holdemanella biformis
+1837 reads identified matching Holdemanella biformis
+6424 reads identified in total
+
+Identified 6424 reads!
+Done
+

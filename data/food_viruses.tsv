@@ -1,0 +1,35 @@
+host	virus	pig	cat	dog	horse	cow	sheep
+soybean	soybean dwarf virus	1	0	0	1	0	0
+soybean	bean yellow mosaic virus	0	0	0	0	1	0
+soybean	soybean mosaic virus	0	0	0	0	1	0
+wheat	wheat dwarf virus	1	0	0	1	0	0
+wheat	wheat streak mosaic virus	1	0	0	1	1	1
+wheat	barley yellow dwarf virus	0	0	0	0	1	1
+grass	panicum mosaic virus	0	0	0	1	0	1
+grass	st augustine grass virus	0	0	0	1	1	1
+grass	johnsongrass mosaic virus	0	0	0	1	1	1
+apple	apple chlorotic leaf spot virus	0	0	0	0	0	0
+apple	apple stem grooving virus	1	0	0	0	0	0
+apple	apple union necrosis virus	1	0	0	1	0	0
+oat	oat mosaic virus	0	0	0	0	0	0
+oat	oat pseudorosette virus	0	0	0	1	0	0
+oat	oat sterile dwarf virus	0	0	0	0	1	1
+rice	rice yellow mottle virus	0	0	0	0	0	0
+rice	rice stripe virus	1	0	0	0	0	0
+rice	rice tungro baciliform virus	0	0	0	0	0	0
+mouse	mouse leukaemia virus	0	0	1	0	0	0
+mouse	mouse mammary tumor virus	0	0	1	0	0	0
+mouse	mouse_virus_1	0	0	0	0	0	0
+rabbit	myxoma virus	0	0	1	0	0	0
+rabbit	rabbit calcivirus	1	1	0	0	0	0
+rabbit	rabbit_virus_1	0	1	1	0	0	0
+shrimp	shrimp_virus_1	0	0	0	0	0	0
+shrimp	shrimp_virus_2	0	0	1	0	0	0
+shrimp	shrimp hemocyte virus	0	1	0	0	0	0
+salmon	salmon isavirus	1	1	0	0	0	0
+salmon	salmon sarcoma virus	0	0	1	0	0	0
+chicken	roux sarcoma virus	0	1	0	0	0	0
+chicken	chicken anaemia virus	0	1	1	0	0	0
+chicken	chicken_virus_1	0	1	0	0	0	0
+rat	seoul virus	0	0	0	0	0	0
+rat	hantavirus	0	1	0	0	0	0

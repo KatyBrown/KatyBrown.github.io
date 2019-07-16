@@ -1,0 +1,469 @@
+host_name	host_scientific_name	microbe_name	microbe_id	microbe_family	microbe_type	country	number_of_samples
+pig	sus_scrofa	actinobacillus_pleuropneumoniae	715	Pasteurellaceae	bacteria	switzerland	6
+pig	sus_scrofa	actinobacillus_porcitonsillarum	189834	Pasteurellaceae	bacteria	switzerland	12
+cow	bos_taurus	aerococcus_viridans	1377	Aerococcaceae	bacteria	slovakia	12
+horse	equus_caballus	african_horse_sickness_virus	40050	Reoviridae	viruses	south africa	75
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	congo	7
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	italy	29
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	kenya	16
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	malawi	18
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	mozambique	24
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	tanzania	7
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	uganda	32
+pig	sus_scrofa	african_swine_fever_virus	10497	Asfarviridae	viruses	zambia	19
+cow	bos_taurus	aino_virus	11582	Peribunyaviridae	viruses	japan	8
+cow	bos_taurus	anaplasma_marginale	770	Anaplasmataceae	bacteria	italy	9
+cow	bos_taurus	anaplasma_marginale	770	Anaplasmataceae	bacteria	united states of america	997
+sheep	ovis_aries	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	austria	6
+horse	equus_caballus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	china	6
+sheep	ovis_aries	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	china	116
+dog	canis_lupus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	germany	66
+horse	equus_caballus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	germany	20
+sheep	ovis_aries	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	germany	22
+sheep	ovis_aries	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	norway	89
+pig	sus_scrofa	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	poland	7
+dog	canis_lupus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	slovenia	10
+cow	bos_taurus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	spain	6
+horse	equus_caballus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	sweden	6
+dog	canis_lupus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	switzerland	8
+goat	capra_hircus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	switzerland	7
+horse	equus_caballus	anaplasma_phagocytophilum	948	Anaplasmataceae	bacteria	united states of america	13
+pig	sus_scrofa	arcobacter_trophiarum	708186	Campylobacteraceae	bacteria	belgium	6
+cow	bos_taurus	bacillus_anthracis	1392	Bacillaceae	bacteria	united states of america	122
+cow	bos_taurus	bartonella_chomelii	236402	Bartonellaceae	bacteria	new caledonia	24
+cat	felis_catus	bartonella_henselae	38323	Bartonellaceae	bacteria	brazil	6
+cat	felis_catus	bartonella_henselae	38323	Bartonellaceae	bacteria	china	10
+cat	felis_catus	bartonella_henselae	38323	Bartonellaceae	bacteria	new caledonia	20
+dog	canis_lupus	bartonella_vinsonii	33047	Bartonellaceae	bacteria	thailand	10
+pig	sus_scrofa	bergeyella_zoohelcum	1015	Flavobacteriaceae	bacteria	japan	7
+cow	bos_taurus	betacoronavirus	694002	Coronaviridae	viruses	brazil	65
+sheep	ovis_aries	bluetongue_virus	40051	Reoviridae	viruses	india	19
+cow	bos_taurus	bluetongue_virus	40051	Reoviridae	viruses	israel	9
+sheep	ovis_aries	bluetongue_virus	40051	Reoviridae	viruses	israel	12
+cow	bos_taurus	bluetongue_virus	40051	Reoviridae	viruses	italy	6
+sheep	ovis_aries	bluetongue_virus	40051	Reoviridae	viruses	italy	60
+cow	bos_taurus	bluetongue_virus	40051	Reoviridae	viruses	japan	32
+sheep	ovis_aries	bluetongue_virus	40051	Reoviridae	viruses	kuwait	10
+cow	bos_taurus	bluetongue_virus	40051	Reoviridae	viruses	taiwan	9
+sheep	ovis_aries	bluetongue_virus	40051	Reoviridae	viruses	united states of america	6
+sheep	ovis_aries	border_disease_virus	358764	Flaviviridae	viruses	france	40
+sheep	ovis_aries	border_disease_virus	358764	Flaviviridae	viruses	spain	8
+cow	bos_taurus	border_disease_virus	358764	Flaviviridae	viruses	united kingdom	11
+horse	equus_caballus	borna_disease_virus	12455	Bornaviridae	viruses	germany	16
+horse	equus_caballus	borna_disease_virus	12455	Bornaviridae	viruses	switzerland	7
+horse	equus_caballus	borna_disease_virus	12455	Bornaviridae	viruses	united states of america	150
+cow	bos_taurus	bovine_coronavirus	11128	Coronaviridae	viruses	brazil	18
+cow	bos_taurus	bovine_enteric_calicivirus	206156	Caliciviridae	viruses	italy	32
+cow	bos_taurus	bovine_ephemeral_fever_virus	11303	Rhabdoviridae	viruses	australia	8
+cow	bos_taurus	bovine_foamy_virus	207343	Retroviridae	viruses	poland	13
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	argentina	26
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	brazil	32
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	chile	8
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	japan	47
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	poland	6
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	russia	25
+cow	bos_taurus	bovine_leukemia_virus	11901	Retroviridae	viruses	turkey	10
+horse	equus_caballus	bovine_papillomavirus	10571	Papillomaviridae	viruses	austria	10
+cow	bos_taurus	bovine_rotavirus_a	35333	Reoviridae	viruses	denmark	14
+cow	bos_taurus	bovine_rotavirus_a	35333	Reoviridae	viruses	india	14
+cow	bos_taurus	bovine_rotavirus_a	35333	Reoviridae	viruses	south korea	16
+cow	bos_taurus	bovine_rotavirus_a	35333	Reoviridae	viruses	turkey	13
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	argentina	17
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	chile	32
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	china	121
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	germany	10
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	italy	89
+sheep	ovis_aries	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	italy	7
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	portugal	31
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	south korea	6
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	switzerland	27
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	united kingdom	9
+cow	bos_taurus	bovine_viral_diarrhea_virus	11099	Flaviviridae	viruses	united states of america	18
+dog	canis_lupus	brachyspira_canis	235984	Brachyspiraceae	bacteria	sweden	7
+pig	sus_scrofa	brachyspira_hyodysenteriae	159	Brachyspiraceae	bacteria	sweden	9
+pig	sus_scrofa	brachyspira_pilosicoli	52584	Brachyspiraceae	bacteria	finland	6
+goat	capra_hircus	brazilian_caprine_lentivirus	89592	Retroviridae	viruses	brazil	37
+cow	bos_taurus	brucella_abortus	235	Brucellaceae	bacteria	turkey	9
+cow	bos_taurus	brucella_abortus	235	Brucellaceae	bacteria	united kingdom	37
+dog	canis_lupus	brucella_canis	36855	Brucellaceae	bacteria	germany	18
+dog	canis_lupus	brucella_canis	36855	Brucellaceae	bacteria	south africa	18
+dog	canis_lupus	brucella_canis	36855	Brucellaceae	bacteria	united states of america	10
+sheep	ovis_aries	brucella_melitensis	29459	Brucellaceae	bacteria	cyprus	9
+sheep	ovis_aries	brucella_melitensis	29459	Brucellaceae	bacteria	france	9
+sheep	ovis_aries	brucella_melitensis	29459	Brucellaceae	bacteria	india	9
+sheep	ovis_aries	brucella_ovis	236	Brucellaceae	bacteria	france	18
+sheep	ovis_aries	brucella_ovis	236	Brucellaceae	bacteria	germany	9
+sheep	ovis_aries	brucella_ovis	236	Brucellaceae	bacteria	united states of america	9
+cow	bos_taurus	brucella_suis	29461	Brucellaceae	bacteria	france	9
+pig	sus_scrofa	brucella_suis	29461	Brucellaceae	bacteria	france	9
+pig	sus_scrofa	brucella_suis	29461	Brucellaceae	bacteria	germany	9
+pig	sus_scrofa	brucella_suis	29461	Brucellaceae	bacteria	india	120
+cow	bos_taurus	campylobacter_coli	195	Campylobacteraceae	bacteria	united states of america	60
+pig	sus_scrofa	campylobacter_coli	195	Campylobacteraceae	bacteria	united states of america	33
+cow	bos_taurus	campylobacter_fetus	196	Campylobacteraceae	bacteria	argentina	1189
+cow	bos_taurus	campylobacter_fetus	196	Campylobacteraceae	bacteria	united kingdom	37
+cow	bos_taurus	campylobacter_jejuni	197	Campylobacteraceae	bacteria	united states of america	6
+pig	sus_scrofa	campylobacter_lanienae	75658	Campylobacteraceae	bacteria	hungary	15
+cow	bos_taurus	candidatus_mycoplasma_haemobos	432608	Mycoplasmataceae	bacteria	japan	8
+sheep	ovis_aries	candidatus_mycoplasma_haemovis	488178	Mycoplasmataceae	bacteria	japan	6
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	brazil	23
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	china	6
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	hungary	10
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	italy	26
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	south korea	20
+dog	canis_lupus	canine_coronavirus	11153	Coronaviridae	viruses	united kingdom	16
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	argentina	11
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	austria	40
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	brazil	17
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	china	27
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	italy	9
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	taiwan	9
+dog	canis_lupus	canine_distemper_virus	11232	Paramyxoviridae	viruses	uruguay	6
+dog	canis_lupus	canine_parvovirus	10788	Parvoviridae	viruses	brazil	69
+dog	canis_lupus	canine_parvovirus	10788	Parvoviridae	viruses	china	93
+dog	canis_lupus	canine_parvovirus	10788	Parvoviridae	viruses	india	46
+dog	canis_lupus	canine_parvovirus	10788	Parvoviridae	viruses	italy	51
+dog	canis_lupus	canine_parvovirus	10788	Parvoviridae	viruses	thailand	26
+cow	bos_taurus	cantagalo_virus	124313	Poxviridae	viruses	brazil	18
+goat	capra_hircus	caprine_arthritis_encephalitis_virus	11660	Retroviridae	viruses	italy	52
+sheep	ovis_aries	caprine_arthritis_encephalitis_virus	11660	Retroviridae	viruses	italy	10
+goat	capra_hircus	caprine_arthritis_encephalitis_virus	11660	Retroviridae	viruses	united states of america	48
+goat	capra_hircus	caprine_lentivirus	169959	Retroviridae	viruses	spain	8
+goat	capra_hircus	chlamydia_abortus	83555	Chlamydiaceae	bacteria	greece	14
+sheep	ovis_aries	chlamydia_abortus	83555	Chlamydiaceae	bacteria	greece	10
+horse	equus_caballus	chlamydia_pneumoniae	83558	Chlamydiaceae	bacteria	united kingdom	7
+pig	sus_scrofa	classical_swine_fever_virus	11096	Flaviviridae	viruses	china	142
+pig	sus_scrofa	classical_swine_fever_virus	11096	Flaviviridae	viruses	colombia	21
+pig	sus_scrofa	classical_swine_fever_virus	11096	Flaviviridae	viruses	india	46
+cow	bos_taurus	clostridium_botulinum	1491	Clostridiaceae	bacteria	japan	8
+sheep	ovis_aries	clostridium_perfringens	1502	Clostridiaceae	bacteria	iran	7
+horse	equus_caballus	clostridium_perfringens	1502	Clostridiaceae	bacteria	sweden	7
+cat	felis_catus	cowpox_virus	10243	Poxviridae	viruses	austria	14
+cat	felis_catus	cowpox_virus	10243	Poxviridae	viruses	norway	7
+cat	felis_catus	cowpox_virus	10243	Poxviridae	viruses	united kingdom	65
+dog	canis_lupus	ehrlichia_canis	944	Anaplasmataceae	bacteria	cameroon	7
+dog	canis_lupus	ehrlichia_canis	944	Anaplasmataceae	bacteria	taiwan	14
+sheep	ovis_aries	ehrlichia_chaffeensis	945	Anaplasmataceae	bacteria	china	24
+pig	sus_scrofa	encephalomyocarditis_virus	12104	Picornaviridae	viruses	belgium	6
+pig	sus_scrofa	encephalomyocarditis_virus	12104	Picornaviridae	viruses	italy	6
+pig	sus_scrofa	enterococcus_faecalis	1351	Enterococcaceae	bacteria	china	21
+pig	sus_scrofa	enterovirus	12059	Picornaviridae	viruses	italy	7
+cow	bos_taurus	epizootic_hemorrhagic_disease_virus	40054	Reoviridae	viruses	south africa	8
+horse	equus_caballus	equine_infectious_anemia_virus	11665	Retroviridae	viruses	canada	11
+horse	equus_caballus	equine_infectious_anemia_virus	11665	Retroviridae	viruses	china	414
+horse	equus_caballus	equine_infectious_anemia_virus	11665	Retroviridae	viruses	united states of america	17
+horse	equus_caballus	equine_papillomavirus	2025828	Papillomaviridae	viruses	belgium	18
+horse	equus_caballus	equine_rotavirus_a	31590	Reoviridae	viruses	japan	30
+cat	felis_catus	escherichia_albertii	208962	Enterobacteriaceae	bacteria	germany	7
+cow	bos_taurus	escherichia_coli	562	Enterobacteriaceae	bacteria	brazil	10
+pig	sus_scrofa	escherichia_coli	562	Enterobacteriaceae	bacteria	canada	24
+cow	bos_taurus	escherichia_coli	562	Enterobacteriaceae	bacteria	china	10
+pig	sus_scrofa	escherichia_coli	562	Enterobacteriaceae	bacteria	china	28
+sheep	ovis_aries	escherichia_coli	562	Enterobacteriaceae	bacteria	china	21
+cow	bos_taurus	escherichia_coli	562	Enterobacteriaceae	bacteria	germany	20
+pig	sus_scrofa	escherichia_coli	562	Enterobacteriaceae	bacteria	japan	92
+rabbit	oryctolagus_cuniculus	escherichia_coli	562	Enterobacteriaceae	bacteria	mexico	6
+cow	bos_taurus	escherichia_coli	562	Enterobacteriaceae	bacteria	united states of america	22
+cat	felis_catus	feline_calicivirus	11978	Caliciviridae	viruses	brazil	12
+cat	felis_catus	feline_calicivirus	11978	Caliciviridae	viruses	united kingdom	24
+cat	felis_catus	feline_coronavirus	12663	Coronaviridae	viruses	malaysia	27
+cat	felis_catus	feline_coronavirus	12663	Coronaviridae	viruses	south korea	16
+cat	felis_catus	feline_coronavirus	12663	Coronaviridae	viruses	united states of america	30
+cat	felis_catus	feline_immunodeficiency_virus	11673	Retroviridae	viruses	germany	54
+cat	felis_catus	feline_immunodeficiency_virus	11673	Retroviridae	viruses	new zealand	20
+cat	felis_catus	feline_leukemia_virus	11768	Retroviridae	viruses	brazil	44
+cat	felis_catus	feline_leukemia_virus	11768	Retroviridae	viruses	united states of america	11
+cat	felis_catus	feline_panleukopenia_virus	10786	Parvoviridae	viruses	south korea	8
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	afghanistan	10
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	bangladesh	8
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	cambodia	10
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	china	31
+pig	sus_scrofa	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	china	73
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	ecuador	15
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	ethiopia	19
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	india	252
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	iran	58
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	iraq	14
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	kenya	54
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	malaysia	45
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	myanmar	13
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	nigeria	10
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	pakistan	40
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	south africa	8
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	sudan	24
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	thailand	82
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	turkey	70
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	uganda	7
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	united kingdom	6
+cow	bos_taurus	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	vietnam	44
+pig	sus_scrofa	foot_and_mouth_disease_virus	12110	Picornaviridae	viruses	vietnam	8
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	argentina	7
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	belgium	112
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	china	31
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	italy	28
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	netherlands	7
+pig	sus_scrofa	haemophilus_parasuis	738	Pasteurellaceae	bacteria	spain	63
+horse	equus_caballus	hendra_virus	63330	Paramyxoviridae	viruses	australia	9
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	brazil	11
+cow	bos_taurus	hepatitis_e_virus	12461	Hepeviridae	viruses	china	8
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	china	130
+rabbit	oryctolagus_cuniculus	hepatitis_e_virus	12461	Hepeviridae	viruses	china	77
+sheep	ovis_aries	hepatitis_e_virus	12461	Hepeviridae	viruses	china	6
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	czechia	9
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	france	54
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	germany	10
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	hungary	28
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	india	11
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	italy	27
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	japan	40
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	new caledonia	14
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	slovenia	11
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	south korea	18
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	spain	95
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	sweden	61
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	thailand	20
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	united kingdom	6
+pig	sus_scrofa	hepatitis_e_virus	12461	Hepeviridae	viruses	united states of america	9
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	argentina	24
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	australia	32
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	belgium	28
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	canada	72
+dog	canis_lupus	influenza_a_virus	11320	Orthomyxoviridae	viruses	china	32
+horse	equus_caballus	influenza_a_virus	11320	Orthomyxoviridae	viruses	china	72
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	china	1581
+horse	equus_caballus	influenza_a_virus	11320	Orthomyxoviridae	viruses	czechia	8
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	denmark	8
+horse	equus_caballus	influenza_a_virus	11320	Orthomyxoviridae	viruses	egypt	7
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	france	12
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	germany	64
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	italy	38
+horse	equus_caballus	influenza_a_virus	11320	Orthomyxoviridae	viruses	kazakhstan	8
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	mexico	8
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	south korea	208
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	spain	48
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	sweden	8
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	taiwan	63
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	thailand	88
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	united kingdom	16
+dog	canis_lupus	influenza_a_virus	11320	Orthomyxoviridae	viruses	united states of america	81
+horse	equus_caballus	influenza_a_virus	11320	Orthomyxoviridae	viruses	united states of america	264
+pig	sus_scrofa	influenza_a_virus	11320	Orthomyxoviridae	viruses	united states of america	989
+pig	sus_scrofa	japanese_encephalitis_virus	11072	Flaviviridae	viruses	china	18
+pig	sus_scrofa	japanese_encephalitis_virus	11072	Flaviviridae	viruses	japan	85
+pig	sus_scrofa	japanese_encephalitis_virus	11072	Flaviviridae	viruses	thailand	12
+cow	bos_taurus	kimberley_virus	318835	Rhabdoviridae	viruses	australia	6
+pig	sus_scrofa	kobuvirus	194960	Picornaviridae	viruses	china	12
+pig	sus_scrofa	kobuvirus	194960	Picornaviridae	viruses	south korea	45
+cow	bos_taurus	lactococcus_lactis	1358	Streptococcaceae	bacteria	india	8
+pig	sus_scrofa	lawsonia_intracellularis	29546	Desulfovibrionaceae	bacteria	united states of america	8
+pig	sus_scrofa	mammalian_orthoreovirus	351073	Reoviridae	viruses	china	10
+pig	sus_scrofa	mammalian_orthoreovirus	351073	Reoviridae	viruses	south korea	10
+cow	bos_taurus	moraxella_bovis	476	Moraxellaceae	bacteria	uruguay	18
+cow	bos_taurus	moraxella_bovoculi	386891	Moraxellaceae	bacteria	uruguay	23
+cow	bos_taurus	mycobacterium_avium	1764	Mycobacteriaceae	bacteria	germany	10
+pig	sus_scrofa	mycobacterium_avium	1764	Mycobacteriaceae	bacteria	germany	13
+cow	bos_taurus	mycobacterium_avium	1764	Mycobacteriaceae	bacteria	netherlands	7
+pig	sus_scrofa	mycobacterium_avium	1764	Mycobacteriaceae	bacteria	russia	8
+cow	bos_taurus	mycobacterium_avium	1764	Mycobacteriaceae	bacteria	united states of america	7
+cat	felis_catus	mycoplasma_haemofelis	29501	Mycoplasmataceae	bacteria	brazil	25
+pig	sus_scrofa	mycoplasma_hyopneumoniae	2099	Mycoplasmataceae	bacteria	china	7
+pig	sus_scrofa	mycoplasma_suis	57372	Mycoplasmataceae	bacteria	germany	12
+rabbit	oryctolagus_cuniculus	myxoma_virus	10273	Poxviridae	viruses	spain	210
+horse	equus_caballus	neorickettsia_risticii	950	Anaplasmataceae	bacteria	united states of america	17
+horse	equus_caballus	nicoletella_semolina	271160	Pasteurellaceae	bacteria	sweden	42
+cow	bos_taurus	norwalk_like_virus	95340	Caliciviridae	viruses	united states of america	20
+sheep	ovis_aries	orf_virus	10258	Poxviridae	viruses	norway	11
+sheep	ovis_aries	ovine_lentivirus	11663	Retroviridae	viruses	spain	21
+sheep	ovis_aries	ovine_progressive_pneumonia_virus	253923	Retroviridae	viruses	united states of america	608
+cow	bos_taurus	peaton_virus	159151	Peribunyaviridae	viruses	japan	9
+goat	capra_hircus	peste_des_petits_ruminants_virus	31604	Paramyxoviridae	viruses	bangladesh	11
+goat	capra_hircus	peste_des_petits_ruminants_virus	31604	Paramyxoviridae	viruses	india	12
+sheep	ovis_aries	peste_des_petits_ruminants_virus	31604	Paramyxoviridae	viruses	india	6
+sheep	ovis_aries	peste_des_petits_ruminants_virus	31604	Paramyxoviridae	viruses	sudan	12
+sheep	ovis_aries	peste_des_petits_ruminants_virus	31604	Paramyxoviridae	viruses	turkey	9
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	australia	8
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	brazil	127
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	canada	7
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	china	170
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	cuba	6
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	romania	8
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	south korea	15
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	taiwan	41
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	thailand	15
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	ukraine	6
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	united states of america	96
+pig	sus_scrofa	porcine_circovirus	46221	Circoviridae	viruses	vietnam	11
+pig	sus_scrofa	porcine_epidemic_diarrhea_virus	28295	Coronaviridae	viruses	china	44
+pig	sus_scrofa	porcine_epidemic_diarrhea_virus	28295	Coronaviridae	viruses	south korea	34
+pig	sus_scrofa	porcine_epidemic_diarrhea_virus	28295	Coronaviridae	viruses	vietnam	14
+pig	sus_scrofa	porcine_hokovirus	494652	Parvoviridae	viruses	china	26
+pig	sus_scrofa	porcine_kobuvirus	1156769	Picornaviridae	viruses	japan	7
+pig	sus_scrofa	porcine_parvovirus	10796	Parvoviridae	viruses	china	8
+pig	sus_scrofa	porcine_parvovirus	10796	Parvoviridae	viruses	united kingdom	10
+pig	sus_scrofa	porcine_picobirnavirus	442302	Picobirnaviridae	viruses	hungary	39
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	belgium	10
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	china	515
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	colombia	15
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	germany	63
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	italy	74
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	mexico	105
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	romania	28
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	south korea	187
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	spain	17
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	united states of america	10
+pig	sus_scrofa	porcine_reproductive_and_respiratory_syndrome_virus	28344	Arteriviridae	viruses	vietnam	27
+pig	sus_scrofa	porcine_rotavirus_a	10967	Reoviridae	viruses	brazil	33
+pig	sus_scrofa	porcine_rotavirus_a	10967	Reoviridae	viruses	china	12
+pig	sus_scrofa	porcine_rotavirus_a	10967	Reoviridae	viruses	japan	7
+pig	sus_scrofa	porcine_teschovirus	118140	Picornaviridae	viruses	italy	32
+pig	sus_scrofa	porcine_teschovirus	118140	Picornaviridae	viruses	spain	67
+cow	bos_taurus	porphyromonas_levii	28114	Porphyromonadaceae	bacteria	canada	159
+cow	bos_taurus	porphyromonas_levii	28114	Porphyromonadaceae	bacteria	united states of america	111
+sheep	ovis_aries	prevotella_ruminicola	839	Prevotellaceae	bacteria	japan	20
+cow	bos_taurus	pseudocowpox_virus	129726	Poxviridae	viruses	norway	15
+rabbit	oryctolagus_cuniculus	rabbit_calicivirus	314539	Caliciviridae	viruses	australia	18
+rabbit	oryctolagus_cuniculus	rabbit_hemorrhagic_disease_virus	11976	Caliciviridae	viruses	france	20
+rabbit	oryctolagus_cuniculus	rabbit_hemorrhagic_disease_virus	11976	Caliciviridae	viruses	spain	13
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	afghanistan	6
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	argentina	14
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	argentina	23
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	bangladesh	8
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	botswana	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	botswana	6
+goat	capra_hircus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	botswana	6
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	brazil	14
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	brazil	330
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	brazil	34
+horse	equus_caballus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	brazil	39
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	burkina faso	35
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	cambodia	12
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	central african rep.	9
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	chad	9
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	china	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	china	491
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	colombia	12
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	colombia	22
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	colombia	50
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	cuba	17
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	cuba	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	cuba	34
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	côte d'ivoire	11
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	ghana	55
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	india	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	india	73
+goat	capra_hircus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	india	6
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	israel	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	israel	26
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	mexico	42
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	mexico	7
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	mongolia	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	nigeria	206
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	philippines	6
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	poland	7
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	poland	6
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	poland	6
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	puerto rico	7
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	romania	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	russia	6
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	south africa	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	south africa	194
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	south korea	17
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	south korea	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	spain	6
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	sri lanka	9
+cow	bos_taurus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	sudan	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	sudan	13
+goat	capra_hircus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	sudan	8
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	tanzania	25
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	thailand	12
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	thailand	301
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	turkey	19
+cat	felis_catus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	ukraine	7
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	ukraine	10
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	united states of america	61
+dog	canis_lupus	rabies_lyssavirus	11292	Rhabdoviridae	viruses	zambia	57
+cow	bos_taurus	rift_valley_fever_virus	11588	Phenuiviridae	viruses	kenya	9
+cow	bos_taurus	rift_valley_fever_virus	11588	Phenuiviridae	viruses	madagascar	23
+cow	bos_taurus	rift_valley_fever_virus	11588	Phenuiviridae	viruses	zimbabwe	24
+horse	equus_caballus	rotavirus_a	28875	Reoviridae	viruses	argentina	22
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	australia	6
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	brazil	15
+sheep	ovis_aries	rotavirus_a	28875	Reoviridae	viruses	china	11
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	denmark	6
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	france	35
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	india	9
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	india	6
+horse	equus_caballus	rotavirus_a	28875	Reoviridae	viruses	ireland	22
+cat	felis_catus	rotavirus_a	28875	Reoviridae	viruses	italy	11
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	italy	35
+dog	canis_lupus	rotavirus_a	28875	Reoviridae	viruses	italy	6
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	italy	28
+cat	felis_catus	rotavirus_a	28875	Reoviridae	viruses	japan	8
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	japan	53
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	slovenia	11
+horse	equus_caballus	rotavirus_a	28875	Reoviridae	viruses	south africa	11
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	spain	9
+sheep	ovis_aries	rotavirus_a	28875	Reoviridae	viruses	spain	6
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	thailand	21
+cow	bos_taurus	rotavirus_a	28875	Reoviridae	viruses	turkey	29
+pig	sus_scrofa	rotavirus_a	28875	Reoviridae	viruses	united states of america	17
+cow	bos_taurus	salmonella_enterica	28901	Enterobacteriaceae	bacteria	japan	30
+pig	sus_scrofa	sapelovirus	686982	Picornaviridae	viruses	spain	8
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	brazil	16
+sheep	ovis_aries	small_ruminant_lentivirus	254355	Retroviridae	viruses	finland	28
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	greece	10
+sheep	ovis_aries	small_ruminant_lentivirus	254355	Retroviridae	viruses	greece	7
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	ireland	18
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	italy	349
+sheep	ovis_aries	small_ruminant_lentivirus	254355	Retroviridae	viruses	italy	21
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	slovenia	28
+sheep	ovis_aries	small_ruminant_lentivirus	254355	Retroviridae	viruses	slovenia	6
+goat	capra_hircus	small_ruminant_lentivirus	254355	Retroviridae	viruses	switzerland	65
+sheep	ovis_aries	small_ruminant_lentivirus	254355	Retroviridae	viruses	switzerland	16
+cow	bos_taurus	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	brazil	9
+cow	bos_taurus	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	denmark	10
+pig	sus_scrofa	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	denmark	14
+cow	bos_taurus	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	india	8
+cat	felis_catus	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	japan	13
+cow	bos_taurus	staphylococcus_aureus	1280	Staphylococcaceae	bacteria	switzerland	12
+cow	bos_taurus	staphylococcus_epidermidis	1282	Staphylococcaceae	bacteria	denmark	6
+dog	canis_lupus	staphylococcus_pseudintermedius	283734	Staphylococcaceae	bacteria	norway	22
+pig	sus_scrofa	staphylococcus_rostri	522262	Staphylococcaceae	bacteria	switzerland	6
+dog	canis_lupus	streptococcus_canis	1329	Streptococcaceae	bacteria	australia	13
+dog	canis_lupus	streptococcus_dysgalactiae	1334	Streptococcaceae	bacteria	australia	18
+pig	sus_scrofa	streptococcus_dysgalactiae	1334	Streptococcaceae	bacteria	japan	9
+pig	sus_scrofa	streptococcus_pyogenes	1314	Streptococcaceae	bacteria	taiwan	6
+pig	sus_scrofa	streptococcus_suis	1307	Streptococcaceae	bacteria	china	26
+pig	sus_scrofa	streptococcus_suis	1307	Streptococcaceae	bacteria	japan	10
+pig	sus_scrofa	swine_hepatitis_e_virus	63421	Hepeviridae	viruses	china	20
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	argentina	15
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	australia	28
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	canada	17
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	chile	33
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	china	42
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	czechia	16
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	germany	25
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	japan	18
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	macedonia	28
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	mozambique	6
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	netherlands	6
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	norway	23
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	slovakia	8
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	south korea	33
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	spain	115
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	thailand	19
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	united kingdom	14
+pig	sus_scrofa	torque_teno_sus_virus	869560	Anelloviridae	viruses	united states of america	13
+cow	bos_taurus	torque_teno_virus	68887	Anelloviridae	viruses	canada	10
+pig	sus_scrofa	torque_teno_virus	68887	Anelloviridae	viruses	canada	16
+pig	sus_scrofa	torque_teno_virus	68887	Anelloviridae	viruses	france	25
+pig	sus_scrofa	torque_teno_virus	68887	Anelloviridae	viruses	germany	50
+pig	sus_scrofa	torque_teno_virus	68887	Anelloviridae	viruses	spain	102
+pig	sus_scrofa	tt_virus	68887	Anelloviridae	viruses	china	50
+horse	equus_caballus	vaccinia_virus	10245	Poxviridae	viruses	brazil	8
+sheep	ovis_aries	visna_virus	2169971	Retroviridae	virus	china	78
+sheep	ovis_aries	visna_virus	2169971	Retroviridae	viruses	greece	20
+sheep	ovis_aries	visna_virus	2169971	Retroviridae	viruses	spain	11
+horse	equus_caballus	west_nile_virus	11082	Flaviviridae	viruses	argentina	8
+horse	equus_caballus	west_nile_virus	11082	Flaviviridae	viruses	south africa	6
+cow	bos_taurus	yersinia_pseudotuberculosis	633	Yersiniaceae	bacteria	argentina	6

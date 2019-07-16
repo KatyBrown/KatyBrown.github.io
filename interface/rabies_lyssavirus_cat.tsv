@@ -1,0 +1,14 @@
+host_name	host_scientific_name	microbe_name	microbe_type	country	number_of_samples
+cat	felis_catus	bartonella_henselae	bacteria	brazil	6.0
+cat	felis_catus	bartonella_henselae	bacteria	china	10.0
+cat	felis_catus	bartonella_henselae	bacteria	new caledonia	20.0
+cat	felis_catus	feline_leukemia_virus	viruses	brazil	44.0
+cat	felis_catus	feline_leukemia_virus	viruses	united states of america	11.0
+cat	felis_catus	mycoplasma_haemofelis	bacteria	brazil	25.0
+cat	felis_catus	rabies_lyssavirus	viruses	brazil	14.0
+cat	felis_catus	rabies_lyssavirus	viruses	colombia	12.0
+cat	felis_catus	rabies_lyssavirus	viruses	cuba	17.0
+cat	felis_catus	rabies_lyssavirus	viruses	poland	7.0
+cat	felis_catus	rabies_lyssavirus	viruses	romania	7.0
+cat	felis_catus	rabies_lyssavirus	viruses	thailand	12.0
+cat	felis_catus	rabies_lyssavirus	viruses	ukraine	7.0

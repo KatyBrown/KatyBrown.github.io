@@ -1,0 +1,64 @@
+host_name	host_scientific_name	microbe_name	microbe_type	country	number_of_samples
+pig	sus_scrofa	anaplasma_phagocytophilum	bacteria	poland	7.0
+pig	sus_scrofa	brucella_suis	bacteria	france	9.0
+pig	sus_scrofa	brucella_suis	bacteria	germany	9.0
+pig	sus_scrofa	classical_swine_fever_virus	viruses	china	142.0
+pig	sus_scrofa	classical_swine_fever_virus	viruses	colombia	21.0
+pig	sus_scrofa	classical_swine_fever_virus	viruses	india	46.0
+pig	sus_scrofa	escherichia_coli	bacteria	canada	24.0
+pig	sus_scrofa	escherichia_coli	bacteria	china	28.0
+pig	sus_scrofa	escherichia_coli	bacteria	japan	92.0
+pig	sus_scrofa	foot_and_mouth_disease_virus	viruses	china	73.0
+pig	sus_scrofa	foot_and_mouth_disease_virus	viruses	vietnam	8.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	brazil	11.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	china	130.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	czechia	9.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	france	54.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	germany	10.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	hungary	28.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	india	11.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	italy	27.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	japan	40.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	new caledonia	14.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	slovenia	11.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	south korea	18.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	spain	95.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	sweden	61.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	thailand	20.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	united kingdom	6.0
+pig	sus_scrofa	hepatitis_e_virus	viruses	united states of america	9.0
+pig	sus_scrofa	influenza_a_virus	viruses	argentina	24.0
+pig	sus_scrofa	influenza_a_virus	viruses	australia	32.0
+pig	sus_scrofa	influenza_a_virus	viruses	belgium	28.0
+pig	sus_scrofa	influenza_a_virus	viruses	canada	72.0
+pig	sus_scrofa	influenza_a_virus	viruses	china	1581.0
+pig	sus_scrofa	influenza_a_virus	viruses	denmark	8.0
+pig	sus_scrofa	influenza_a_virus	viruses	france	12.0
+pig	sus_scrofa	influenza_a_virus	viruses	germany	64.0
+pig	sus_scrofa	influenza_a_virus	viruses	italy	38.0
+pig	sus_scrofa	influenza_a_virus	viruses	mexico	8.0
+pig	sus_scrofa	influenza_a_virus	viruses	south korea	208.0
+pig	sus_scrofa	influenza_a_virus	viruses	spain	48.0
+pig	sus_scrofa	influenza_a_virus	viruses	sweden	8.0
+pig	sus_scrofa	influenza_a_virus	viruses	taiwan	63.0
+pig	sus_scrofa	influenza_a_virus	viruses	thailand	88.0
+pig	sus_scrofa	influenza_a_virus	viruses	united kingdom	16.0
+pig	sus_scrofa	influenza_a_virus	viruses	united states of america	989.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	argentina	15.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	australia	28.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	canada	17.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	chile	33.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	china	42.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	czechia	16.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	germany	25.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	japan	18.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	macedonia	28.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	mozambique	6.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	netherlands	6.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	norway	23.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	slovakia	8.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	south korea	33.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	spain	115.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	thailand	19.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	united kingdom	14.0
+pig	sus_scrofa	torque_teno_sus_virus	viruses	united states of america	13.0

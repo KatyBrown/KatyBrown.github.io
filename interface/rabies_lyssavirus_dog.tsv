@@ -1,0 +1,44 @@
+host_name	host_scientific_name	microbe_name	microbe_type	country	number_of_samples
+dog	canis_lupus	anaplasma_phagocytophilum	bacteria	germany	66.0
+dog	canis_lupus	anaplasma_phagocytophilum	bacteria	slovenia	10.0
+dog	canis_lupus	anaplasma_phagocytophilum	bacteria	switzerland	8.0
+dog	canis_lupus	bartonella_vinsonii	bacteria	thailand	10.0
+dog	canis_lupus	canine_parvovirus	viruses	brazil	69.0
+dog	canis_lupus	canine_parvovirus	viruses	china	93.0
+dog	canis_lupus	canine_parvovirus	viruses	india	46.0
+dog	canis_lupus	canine_parvovirus	viruses	italy	51.0
+dog	canis_lupus	canine_parvovirus	viruses	thailand	26.0
+dog	canis_lupus	influenza_a_virus	viruses	china	32.0
+dog	canis_lupus	influenza_a_virus	viruses	united states of america	81.0
+dog	canis_lupus	rabies_lyssavirus	viruses	afghanistan	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	argentina	23.0
+dog	canis_lupus	rabies_lyssavirus	viruses	botswana	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	brazil	34.0
+dog	canis_lupus	rabies_lyssavirus	viruses	burkina faso	35.0
+dog	canis_lupus	rabies_lyssavirus	viruses	cambodia	12.0
+dog	canis_lupus	rabies_lyssavirus	viruses	central african rep.	9.0
+dog	canis_lupus	rabies_lyssavirus	viruses	chad	9.0
+dog	canis_lupus	rabies_lyssavirus	viruses	china	491.0
+dog	canis_lupus	rabies_lyssavirus	viruses	colombia	50.0
+dog	canis_lupus	rabies_lyssavirus	viruses	cuba	34.0
+dog	canis_lupus	rabies_lyssavirus	viruses	côte d'ivoire	11.0
+dog	canis_lupus	rabies_lyssavirus	viruses	ghana	55.0
+dog	canis_lupus	rabies_lyssavirus	viruses	india	73.0
+dog	canis_lupus	rabies_lyssavirus	viruses	israel	26.0
+dog	canis_lupus	rabies_lyssavirus	viruses	mexico	7.0
+dog	canis_lupus	rabies_lyssavirus	viruses	nigeria	206.0
+dog	canis_lupus	rabies_lyssavirus	viruses	philippines	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	poland	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	puerto rico	7.0
+dog	canis_lupus	rabies_lyssavirus	viruses	russia	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	south africa	194.0
+dog	canis_lupus	rabies_lyssavirus	viruses	south korea	10.0
+dog	canis_lupus	rabies_lyssavirus	viruses	spain	6.0
+dog	canis_lupus	rabies_lyssavirus	viruses	sri lanka	9.0
+dog	canis_lupus	rabies_lyssavirus	viruses	sudan	13.0
+dog	canis_lupus	rabies_lyssavirus	viruses	tanzania	25.0
+dog	canis_lupus	rabies_lyssavirus	viruses	thailand	301.0
+dog	canis_lupus	rabies_lyssavirus	viruses	turkey	19.0
+dog	canis_lupus	rabies_lyssavirus	viruses	ukraine	10.0
+dog	canis_lupus	rabies_lyssavirus	viruses	united states of america	61.0
+dog	canis_lupus	rabies_lyssavirus	viruses	zambia	57.0

@@ -1,0 +1,17 @@
+host_name	host_scientific_name	microbe_name	microbe_type	country	number_of_samples
+horse	equus_caballus	anaplasma_phagocytophilum	bacteria	china	6.0
+horse	equus_caballus	anaplasma_phagocytophilum	bacteria	germany	20.0
+horse	equus_caballus	anaplasma_phagocytophilum	bacteria	sweden	6.0
+horse	equus_caballus	anaplasma_phagocytophilum	bacteria	united states of america	13.0
+horse	equus_caballus	borna_disease_virus	viruses	germany	16.0
+horse	equus_caballus	borna_disease_virus	viruses	switzerland	7.0
+horse	equus_caballus	equine_infectious_anemia_virus	viruses	canada	11.0
+horse	equus_caballus	equine_infectious_anemia_virus	viruses	china	414.0
+horse	equus_caballus	equine_infectious_anemia_virus	viruses	united states of america	17.0
+horse	equus_caballus	influenza_a_virus	viruses	china	72.0
+horse	equus_caballus	influenza_a_virus	viruses	czechia	8.0
+horse	equus_caballus	influenza_a_virus	viruses	egypt	7.0
+horse	equus_caballus	influenza_a_virus	viruses	kazakhstan	8.0
+horse	equus_caballus	influenza_a_virus	viruses	united states of america	264.0
+horse	equus_caballus	neorickettsia_risticii	bacteria	united states of america	17.0
+horse	equus_caballus	rabies_lyssavirus	viruses	brazil	39.0

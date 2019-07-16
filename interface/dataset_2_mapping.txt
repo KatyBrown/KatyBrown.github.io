@@ -1,0 +1,85 @@
+Loaded 40,000 reads
+Mapping reads...
+
+1 / 20: Mapping reads to Bartonella henselae
+42 reads identified matching Bartonella henselae
+42 reads identified in total
+
+2 / 20: Mapping reads to Classical swine fever virus
+0 reads identified matching Classical swine fever virus
+42 reads identified in total
+
+3 / 20: Mapping reads to Bartonella vinsonii
+33 reads identified matching Bartonella vinsonii
+75 reads identified in total
+
+4 / 20: Mapping reads to Visna virus
+20 reads identified matching Visna virus
+95 reads identified in total
+
+5 / 20: Mapping reads to Equine infectious anemia virus
+1062 reads identified matching Equine infectious anemia virus
+1157 reads identified in total
+
+6 / 20: Mapping reads to Brucella suis
+42 reads identified matching Brucella suis
+1199 reads identified in total
+
+7 / 20: Mapping reads to Neorickettsia risticii
+2823 reads identified matching Neorickettsia risticii
+4022 reads identified in total
+
+8 / 20: Mapping reads to Mycoplasma haemofelis
+0 reads identified matching Mycoplasma haemofelis
+4022 reads identified in total
+
+9 / 20: Mapping reads to Brucella abortus
+0 reads identified matching Brucella abortus
+4022 reads identified in total
+
+10 / 20: Mapping reads to Foot and mouth disease virus
+0 reads identified matching Foot and mouth disease virus
+4022 reads identified in total
+
+11 / 20: Mapping reads to Torque teno sus virus
+0 reads identified matching Torque teno sus virus
+4022 reads identified in total
+
+12 / 20: Mapping reads to Feline leukemia virus
+0 reads identified matching Feline leukemia virus
+4022 reads identified in total
+
+13 / 20: Mapping reads to Hepatitis E virus
+0 reads identified matching Hepatitis E virus
+4022 reads identified in total
+
+14 / 20: Mapping reads to Canine parvovirus
+0 reads identified matching Canine parvovirus
+4022 reads identified in total
+
+15 / 20: Mapping reads to Borna disease virus
+3932 reads identified matching Borna disease virus
+7954 reads identified in total
+
+16 / 20: Mapping reads to Rabies lyssavirus
+12 reads identified matching Rabies lyssavirus
+7966 reads identified in total
+
+17 / 20: Mapping reads to Anaplasma phagocytophilum
+0 reads identified matching Anaplasma phagocytophilum
+7966 reads identified in total
+
+18 / 20: Mapping reads to Escherichia coli
+0 reads identified matching Escherichia coli
+7966 reads identified in total
+
+19 / 20: Mapping reads to Influenza A virus
+0 reads identified matching Influenza A virus
+7966 reads identified in total
+
+20 / 20: Mapping reads to Bovine leukemia virus
+0 reads identified matching Bovine leukemia virus
+7966 reads identified in total
+
+Identified 7966 reads!
+Done

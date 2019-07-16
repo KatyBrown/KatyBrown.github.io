@@ -1,0 +1,87 @@
+Loading data....
+
+Loaded 40,000 reads
+Mapping reads...
+
+1 / 20: Mapping reads to Brucella abortus
+3214 reads identified matching Brucella abortus
+3214 reads identified in total
+
+2 / 20: Mapping reads to Feline leukemia virus
+0 reads identified matching Feline leukemia virus
+3214 reads identified in total
+
+3 / 20: Mapping reads to Bartonella vinsonii
+20 reads identified matching Bartonella vinsonii
+3234 reads identified in total
+
+4 / 20: Mapping reads to Visna virus
+0 reads identified matching Visna virus
+3234 reads identified in total
+
+5 / 20: Mapping reads to Hepatitis E virus
+0 reads identified matching Hepatitis E virus
+3234 reads identified in total
+
+6 / 20: Mapping reads to Borna disease virus
+0 reads identified matching Borna disease virus
+3234 reads identified in total
+
+7 / 20: Mapping reads to Anaplasma phagocytophilum
+0 reads identified matching Anaplasma phagocytophilum
+3234 reads identified in total
+
+8 / 20: Mapping reads to Bovine leukemia virus
+1366 reads identified matching Bovine leukemia virus
+4600 reads identified in total
+
+9 / 20: Mapping reads to Escherichia coli
+0 reads identified matching Escherichia coli
+4600 reads identified in total
+
+10 / 20: Mapping reads to Rabies lyssavirus
+0 reads identified matching Rabies lyssavirus
+4600 reads identified in total
+
+11 / 20: Mapping reads to Canine parvovirus
+0 reads identified matching Canine parvovirus
+4600 reads identified in total
+
+12 / 20: Mapping reads to Equine infectious anemia virus
+0 reads identified matching Equine infectious anemia virus
+4600 reads identified in total
+
+13 / 20: Mapping reads to Torque teno sus virus
+2 reads identified matching Torque teno sus virus
+4602 reads identified in total
+
+14 / 20: Mapping reads to Mycoplasma haemofelis
+0 reads identified matching Mycoplasma haemofelis
+4602 reads identified in total
+
+15 / 20: Mapping reads to Foot and mouth disease virus
+3952 reads identified matching Foot and mouth disease virus
+8554 reads identified in total
+
+16 / 20: Mapping reads to Brucella suis
+10 reads identified matching Brucella suis
+8564 reads identified in total
+
+17 / 20: Mapping reads to Classical swine fever virus
+0 reads identified matching Classical swine fever virus
+8564 reads identified in total
+
+18 / 20: Mapping reads to Bartonella henselae
+1 reads identified matching Bartonella henselae
+8565 reads identified in total
+
+19 / 20: Mapping reads to Neorickettsia risticii
+1 reads identified matching Neorickettsia risticii
+8566 reads identified in total
+
+20 / 20: Mapping reads to Influenza A virus
+0 reads identified matching Influenza A virus
+8566 reads identified in total
+
+Identified 8566 reads!
+Done
