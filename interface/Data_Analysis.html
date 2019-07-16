@@ -11871,10 +11871,10 @@ $( document ).ready(code_toggle);
 
 
 
-<div id="98d9e2de-1071-450f-8f97-d96c0039fa4d"></div>
+<div id="c195e891-00be-4fe7-8be3-57dc382abd7d"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#98d9e2de-1071-450f-8f97-d96c0039fa4d');
+var element = $('#c195e891-00be-4fe7-8be3-57dc382abd7d');
 IPython.OutputArea.prototype._should_scroll = function(lines) {
     return false;
 }
@@ -11907,7 +11907,8 @@ IPython.OutputArea.prototype._should_scroll = function(lines) {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>This app will help you analyse your next generation sequencing data.</p>
-<p>You might want to use some of the graphs for your infographic later.</p>
+<p>Click on the menus and the yellow buttons to do the analysis</p>
+<p>You might want to use some of the graphs for your poster later.</p>
 <p>If you want to save an image, right click on it and choose "Save Image As".</p>
 <p>If you want to print a graph, you need to save it and open it first.</p>
 
@@ -11949,13 +11950,13 @@ IPython.OutputArea.prototype._should_scroll = function(lines) {
 
  
  
-<div id="0e04fc9c-b057-45a5-89a9-c71d2de2cf65"></div>
+<div id="e73d05ce-8308-41a0-8deb-cee41796ae61"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#0e04fc9c-b057-45a5-89a9-c71d2de2cf65');
+var element = $('#e73d05ce-8308-41a0-8deb-cee41796ae61');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "8b3412c381d6416fa1052cd62eee99f2", "version_major": 2, "version_minor": 0}
+{"model_id": "91b77d0c98be43b89e2c1247fdf50409", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -11980,7 +11981,7 @@ var element = $('#0e04fc9c-b057-45a5-89a9-c71d2de2cf65');
 <p>Your data consists of a set of 40,000 next generation sequencing <strong>reads</strong>.</p>
 <p>Your task is to find out as much as you can about the animal the reads come from by analysing the data.</p>
 <p>First, you need to look at your data.</p>
-<p>Click on the button below to view 50 random reads from your data.</p>
+<p>Click on the button below to see 50 random reads from your data.</p>
 
 </div>
 </div>
@@ -11998,6 +11999,8 @@ var element = $('#0e04fc9c-b057-45a5-89a9-c71d2de2cf65');
 <span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
     <span class="n">functions</span><span class="o">.</span><span class="n">sampleReads</span><span class="p">(</span><span class="n">functions</span><span class="o">.</span><span class="n">FastaToDict</span><span class="p">(</span><span class="s2">&quot;../data/sample_</span><span class="si">%s</span><span class="s2">_reads.fasta&quot;</span> <span class="o">%</span> <span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">),</span> <span class="mi">50</span><span class="p">)</span>
 <span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
+<span class="n">button</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">button_color</span> <span class="o">=</span> <span class="s1">&#39;#f5de83&#39;</span>
+
 <span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
 </pre></div>
 
@@ -12019,13 +12022,13 @@ var element = $('#0e04fc9c-b057-45a5-89a9-c71d2de2cf65');
 
  
  
-<div id="039b7dcd-3970-4e18-8199-886a4bbcfc71"></div>
+<div id="72cc41bf-7422-48e9-9d8c-0fd0cceebdac"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#039b7dcd-3970-4e18-8199-886a4bbcfc71');
+var element = $('#72cc41bf-7422-48e9-9d8c-0fd0cceebdac');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "9bf9ac209fbb4d818de1485a02e35fee", "version_major": 2, "version_minor": 0}
+{"model_id": "551c7b57b821486c8c1afb7337c77730", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12053,29 +12056,6 @@ var element = $('#039b7dcd-3970-4e18-8199-886a4bbcfc71');
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>If you want to see all of your reads, click on the link to your dataset below.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="../data/sample_1_reads.fasta">dataset 1</a></p>
-<p><a href="../data/sample_2_reads.fasta">dataset 2</a></p>
-<p><a href="../data/sample_3_reads.fasta">dataset 3</a></p>
-<p><a href="../data/sample_4_reads.fasta">dataset 4</a></p>
-<p><a href="../data/sample_5_reads.fasta">dataset 5</a></p>
-<p><a href="../data/sample_6_reads.fasta">dataset 6</a></p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Search-your-data">Search your data<a class="anchor-link" href="#Search-your-data">&#182;</a></h2>
 </div>
 </div>
@@ -12084,8 +12064,8 @@ var element = $('#039b7dcd-3970-4e18-8199-886a4bbcfc71');
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>It is difficult to find anything out about your data just from looking at it!</p>
-<p>Instead, we can start to search for sequences which look similar to different reference sequences.</p>
+<p>It is difficult to find anything out about your data just from looking at it.</p>
+<p>Instead, we can start to search for sequences which match different reference sequences.</p>
 
 </div>
 </div>
@@ -12129,13 +12109,13 @@ var element = $('#039b7dcd-3970-4e18-8199-886a4bbcfc71');
 
  
  
-<div id="829636a6-522b-4797-9296-86f151fe6d5f"></div>
+<div id="9c4bfc72-5f55-41a0-9904-72f02e6c5541"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#829636a6-522b-4797-9296-86f151fe6d5f');
+var element = $('#9c4bfc72-5f55-41a0-9904-72f02e6c5541');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "eaf108d716b244379da4d8ef17ab01a3", "version_major": 2, "version_minor": 0}
+{"model_id": "9a82382213e946138b282e777d82a60c", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12200,6 +12180,7 @@ var element = $('#829636a6-522b-4797-9296-86f151fe6d5f');
 <span class="n">button</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Match Reads to Reference Sequences!&quot;</span><span class="p">,</span>
                         <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
                                              <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
+<span class="n">button</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">button_color</span> <span class="o">=</span> <span class="s1">&#39;#f5de83&#39;</span>
 
 <span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
     <span class="n">r</span> <span class="o">=</span> <span class="n">functions</span><span class="o">.</span><span class="n">mapReadsDisplay</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="s1">&#39;../data/references.fasta&#39;</span><span class="p">)</span>
@@ -12225,13 +12206,13 @@ var element = $('#829636a6-522b-4797-9296-86f151fe6d5f');
 
  
  
-<div id="5cc0f8ab-c8aa-4037-bb0a-93e2e6badbe4"></div>
+<div id="398de77c-31b7-4a1e-a9b9-3686e4a14c3e"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#5cc0f8ab-c8aa-4037-bb0a-93e2e6badbe4');
+var element = $('#398de77c-31b7-4a1e-a9b9-3686e4a14c3e');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "38d69aca49fe466bbaea815a037d730c", "version_major": 2, "version_minor": 0}
+{"model_id": "d9acd049bf7e40f2ac97a5251241d6df", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12278,6 +12259,7 @@ var element = $('#5cc0f8ab-c8aa-4037-bb0a-93e2e6badbe4');
 <span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
     <span class="n">functions</span><span class="o">.</span><span class="n">showMappingBar</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">)</span>
 <span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
+<span class="n">button</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">button_color</span> <span class="o">=</span> <span class="s1">&#39;#f5de83&#39;</span>
 <span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
 </pre></div>
 
@@ -12299,13 +12281,13 @@ var element = $('#5cc0f8ab-c8aa-4037-bb0a-93e2e6badbe4');
 
  
  
-<div id="c4a71488-e9a2-4f31-a03e-2186229224ed"></div>
+<div id="aada1904-4078-4f24-aa4c-c17dbffaf2b0"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#c4a71488-e9a2-4f31-a03e-2186229224ed');
+var element = $('#aada1904-4078-4f24-aa4c-c17dbffaf2b0');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "257554d250a84d1b82911e72464f4444", "version_major": 2, "version_minor": 0}
+{"model_id": "7f02ef73d63b4081ae26fc81cb56f1f4", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12351,6 +12333,7 @@ var element = $('#c4a71488-e9a2-4f31-a03e-2186229224ed');
 <span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
     <span class="n">functions</span><span class="o">.</span><span class="n">showMapping</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">)</span>
 <span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
+<span class="n">button</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">button_color</span> <span class="o">=</span> <span class="s1">&#39;#f5de83&#39;</span>
 <span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
 </pre></div>
 
@@ -12372,13 +12355,13 @@ var element = $('#c4a71488-e9a2-4f31-a03e-2186229224ed');
 
  
  
-<div id="77d40289-64bb-4211-be9e-9c1d95460501"></div>
+<div id="bee2b35c-40e7-48c4-b0cc-16eb22e87060"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#77d40289-64bb-4211-be9e-9c1d95460501');
+var element = $('#bee2b35c-40e7-48c4-b0cc-16eb22e87060');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "d98526ed0d3b4495a6dc7746a8eb5f6e", "version_major": 2, "version_minor": 0}
+{"model_id": "08f4f379ecfb41e3a5ed023709c8b7cb", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12406,7 +12389,7 @@ var element = $('#77d40289-64bb-4211-be9e-9c1d95460501');
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Finally, here are your results in a table.</p>
+<p>Click here to see your results in a table.</p>
 
 </div>
 </div>
@@ -12427,6 +12410,8 @@ var element = $('#77d40289-64bb-4211-be9e-9c1d95460501');
 <span class="n">button2</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Download Read Mapping Table&quot;</span><span class="p">,</span>
                         <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
                                              <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
+<span class="n">button</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">button_color</span> <span class="o">=</span> <span class="s1">&#39;#f5de83&#39;</span>
+
 
 <span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
 </pre></div>
@@ -12449,13 +12434,13 @@ var element = $('#77d40289-64bb-4211-be9e-9c1d95460501');
 
  
  
-<div id="640f8138-6453-4da6-a785-5ce13418b7c0"></div>
+<div id="1114ba45-b13e-428f-8552-7134d7b637b2"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#640f8138-6453-4da6-a785-5ce13418b7c0');
+var element = $('#1114ba45-b13e-428f-8552-7134d7b637b2');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "1a2d59d82c9747b1836af480e7eaae35", "version_major": 2, "version_minor": 0}
+{"model_id": "f9ee7b6f66b04fc0818c309a7a63e717", "version_major": 2, "version_minor": 0}
 </script>
 </div>
 
@@ -12469,12 +12454,12 @@ var element = $('#640f8138-6453-4da6-a785-5ce13418b7c0');
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="1_mapping_table.tsv">alternative link dataset 1</a>, 
-<a href="2_mapping_table.tsv">alternative link dataset 2</a>, 
-<a href="3_mapping_table.tsv">alternative link dataset 3</a>, 
-<a href="4_mapping_table.tsv">alternative link dataset 4</a>, 
-<a href="5_mapping_table.tsv">alternative link dataset 5</a>, 
-<a href="6_mapping_table.tsv">alternative link dataset 6</a>,</p>
+<p><a href="1_mapping_table.txt">alternative link dataset 1</a>, 
+<a href="2_mapping_table.txt">alternative link dataset 2</a>, 
+<a href="3_mapping_table.txt">alternative link dataset 3</a>, 
+<a href="4_mapping_table.txt">alternative link dataset 4</a>, 
+<a href="5_mapping_table.txt">alternative link dataset 5</a>, 
+<a href="6_mapping_table.txt">alternative link dataset 6</a>,</p>
 
 </div>
 </div>
@@ -12483,253 +12468,7 @@ var element = $('#640f8138-6453-4da6-a785-5ce13418b7c0');
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Write down the <strong>top three</strong> disease causing microbes in your sample - you will use these results later.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Match-your-reads-to-digestive-bacteria">Match your reads to digestive bacteria<a class="anchor-link" href="#Match-your-reads-to-digestive-bacteria">&#182;</a></h2>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Next, we will look for <strong>digestive bacteria</strong> in the sample- these are helpful bacteria which help our bodies digest food and usally don't cause disease.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>There are many more digestive bacteria to look for than disease causing microbes, so we won't look at them one by one.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Click on the button below to map your reads to 43 digestive bacteria.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">importlib</span><span class="o">.</span><span class="n">reload</span><span class="p">(</span><span class="n">functions</span><span class="p">)</span>
-<span class="n">button</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Match Reads to Reference Sequences!&quot;</span><span class="p">,</span>
-                        <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
-                                             <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
-
-<span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
-    <span class="n">r</span> <span class="o">=</span> <span class="n">functions</span><span class="o">.</span><span class="n">mapReadsDisplay</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="s1">&#39;../data/digest.fasta&#39;</span><span class="p">,</span> <span class="n">typ</span><span class="o">=</span><span class="s1">&#39;digest&#39;</span><span class="p">)</span>
-<span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
-<span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-
-
-
- 
- 
-<div id="aac460a8-5c49-479b-9c54-7150e093a568"></div>
-<div class="output_subarea output_widget_view ">
-<script type="text/javascript">
-var element = $('#aac460a8-5c49-479b-9c54-7150e093a568');
-</script>
-<script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "9b1dd17a8e0649a2a234964a907b4634", "version_major": 2, "version_minor": 0}
-</script>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="1_reads_mapping_digest.txt">alternative link dataset 1</a>,
-<a href="2_reads_mapping_digest.txt">alternative link dataset 2</a>,
-<a href="3_reads_mapping_digest.txt">alternative link dataset 3</a>,
-<a href="4_reads_mapping_digest.txt">alternative link dataset 4</a>,
-<a href="5_reads_mapping_digest.txt">alternative link dataset 5</a>,
-<a href="6_reads_mapping_digest.txt">alternative link dataset 6</a></p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Click on the button below to show how many reads mapped to each digestive bacteria.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">importlib</span><span class="o">.</span><span class="n">reload</span><span class="p">(</span><span class="n">functions</span><span class="p">)</span>
-<span class="n">button</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Count Reads per Microbe&quot;</span><span class="p">,</span>
-                        <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
-                                             <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
-
-<span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
-    <span class="n">functions</span><span class="o">.</span><span class="n">showMappingBar</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">typ</span><span class="o">=</span><span class="s1">&#39;digest&#39;</span><span class="p">)</span>
-<span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
-<span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-
-
-
- 
- 
-<div id="52c4919d-2574-413b-aea8-ceb8966120b4"></div>
-<div class="output_subarea output_widget_view ">
-<script type="text/javascript">
-var element = $('#52c4919d-2574-413b-aea8-ceb8966120b4');
-</script>
-<script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "7f802e04d96a41e0806b0bcf3379e236", "version_major": 2, "version_minor": 0}
-</script>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="1_reads_bar_digest.png">alternative link dataset 1</a>,
-<a href="2_reads_bar_digest.png">alternative link dataset 2</a>,
-<a href="3_reads_bar_digest.png">alternative link dataset 3</a>,
-<a href="4_reads_bar_digest.png">alternative link dataset 4</a>,
-<a href="5_reads_bar_digest.png">alternative link dataset 5</a>,
-<a href="6_reads_bar_digest.png">alternative link dataset 6</a></p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>And click below to see these results in a table.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">importlib</span><span class="o">.</span><span class="n">reload</span><span class="p">(</span><span class="n">functions</span><span class="p">)</span>
-<span class="n">button</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Show Read Mapping Table&quot;</span><span class="p">,</span>
-                        <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
-                                             <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
-
-<span class="k">def</span> <span class="nf">onbuttonclick</span><span class="p">(</span><span class="n">b</span><span class="p">):</span>
-    <span class="n">functions</span><span class="o">.</span><span class="n">showMappingTable</span><span class="p">(</span><span class="n">dataset_id</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">typ</span><span class="o">=</span><span class="s1">&#39;digest&#39;</span><span class="p">)</span>
-<span class="n">button</span><span class="o">.</span><span class="n">on_click</span><span class="p">(</span><span class="n">onbuttonclick</span><span class="p">)</span>
-<span class="n">button2</span> <span class="o">=</span> <span class="n">widgets</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s2">&quot;Download Read Mapping Table&quot;</span><span class="p">,</span>
-                        <span class="n">layout</span><span class="o">=</span><span class="n">widgets</span><span class="o">.</span><span class="n">Layout</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="s1">&#39;300px&#39;</span><span class="p">,</span>
-                                             <span class="n">height</span><span class="o">=</span><span class="s1">&#39;50px&#39;</span><span class="p">))</span>
-
-<span class="n">b</span> <span class="o">=</span> <span class="n">display</span><span class="p">(</span><span class="n">button</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-
-
-
- 
- 
-<div id="470b5c66-e7c1-4319-8354-aad2e6ac0b63"></div>
-<div class="output_subarea output_widget_view ">
-<script type="text/javascript">
-var element = $('#470b5c66-e7c1-4319-8354-aad2e6ac0b63');
-</script>
-<script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "dde6f6d58ff4407a86834981ac235eef", "version_major": 2, "version_minor": 0}
-</script>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Remember to save your graphs or print them.</p>
-<p>If you still have time, you can try to make your own graph from any of the dataset by copying and pasting your data onto this site.</p>
-<p><a href="http://plot.ly/create">http://www.plot.ly/create</a></p>
+<p>Write down the 3 microbes which were <strong>most common</strong> in your sample.</p>
 
 </div>
 </div>
