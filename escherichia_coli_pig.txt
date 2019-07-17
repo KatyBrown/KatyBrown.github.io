@@ -1,0 +1,4 @@
+Country	Number of Samples
+Canada	24
+China	28
+Japan	92

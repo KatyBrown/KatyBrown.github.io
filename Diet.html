@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>Data_Analysis</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Diet</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -11775,7 +11775,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Data">Data<a class="anchor-link" href="#Data">&#182;</a></h2>
+<h1 id="Diet">Diet<a class="anchor-link" href="#Diet">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -11783,21 +11783,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Task-1:">Task 1:<a class="anchor-link" href="#Task-1:">&#182;</a></h3>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>These links show the number of reads mapping to 22 different disease causing microbes in each sample.</p>
-<p><a href="1_reads_bar_path.png">dataset 1</a></p>
-<p><a href="2_reads_bar_path.png">dataset 2</a></p>
-<p><a href="3_reads_bar_path.png">dataset 3</a></p>
-<p><a href="4_reads_bar_path.png">dataset 4</a></p>
-<p><a href="5_reads_bar_path.png">dataset 5</a></p>
-<p><a href="6_reads_bar_path.png">dataset 6</a></p>
+<p>Next, you'll figure out what kind of food your animal has eaten.</p>
 
 </div>
 </div>
@@ -11806,7 +11792,10 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Write down the 3 <strong>disease causing</strong> microbes which were <strong>most common</strong> in your sample.</p>
+<p>We often do this using <strong>digestive bacteria</strong> - these are helpful bacteria which help our bodies digest food.</p>
+<p>Different animals need different bacteria.</p>
+<p>Animals which eat meat need to digest more <strong>protein</strong></p>
+<p>Animals which eat plants need to digest more <strong>cellulose</strong></p>
 
 </div>
 </div>
@@ -11815,7 +11804,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Task-2:">Task 2:<a class="anchor-link" href="#Task-2:">&#182;</a></h3>
+<h3 id="Task-5">Task 5<a class="anchor-link" href="#Task-5">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -11823,7 +11812,8 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>These links show the results as tables.</p>
+<p>We have looked for 44 common digestive bacteria in the samples.</p>
+<p>Here are the results as bar charts.</p>
 
 </div>
 </div>
@@ -11832,12 +11822,12 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="1_mapping_tab.txt">dataset 1</a></p>
-<p><a href="2_mapping_tab.txt">dataset 2</a></p>
-<p><a href="3_mapping_tab.txt">dataset 3</a></p>
-<p><a href="4_mapping_tab.txt">dataset 4</a></p>
-<p><a href="5_mapping_tab.txt">dataset 5</a></p>
-<p><a href="6_mapping_tab.txt">dataset 6</a></p>
+<p><a href="1_reads_bar_digest.png">dataset 1</a></p>
+<p><a href="2_reads_bar_digest.png">dataset 2</a></p>
+<p><a href="3_reads_bar_digest.png">dataset 3</a></p>
+<p><a href="4_reads_bar_digest.png">dataset 4</a></p>
+<p><a href="5_reads_bar_digest.png">dataset 5</a></p>
+<p><a href="6_reads_bar_digest.png">dataset 6</a></p>
 
 </div>
 </div>
@@ -11846,7 +11836,79 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Copy this data into this website: <a href="http://plot.ly/create">plotly</a> and create your own graph.</p>
+<p>There are many bacteria here - so don't look them up one at a time</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Instead we can look at <strong>patterns</strong></p>
+<p>In the graphs below, the top row (grey) is your dataset.</p>
+<p>The coloured squares show which bacteria were found in some other animals.</p>
+<p>Look at the patterns on the graph and decide if your data is more similar to:</p>
+<ul>
+<li>Herbivores</li>
+<li>Omnivores</li>
+<li>Carnivores</li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><a href="1_matrix.png">dataset 1</a></p>
+<p><a href="2_matrix.png">dataset 2</a></p>
+<p><a href="3_matrix.png">dataset 3</a></p>
+<p><a href="4_matrix.png">dataset 4</a></p>
+<p><a href="5_matrix.png">dataset 5</a></p>
+<p><a href="6_matrix.png">dataset 6</a></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Task-6">Task 6<a class="anchor-link" href="#Task-6">&#182;</a></h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>By now you should have a good idea if your animal is a carnivore, herbivore or omnivore.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We can now look if any microbes from specific foods were common in your sample</p>
+<p>Look at the graphs below and see what your animal eats.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><a href="food_d1.png">dataset 1</a></p>
+<p><a href="food_d2.png">dataset 2</a></p>
+<p><a href="food_d3.png">dataset 3</a></p>
+<p><a href="food_d4.png">dataset 4</a></p>
+<p><a href="food_d5.png">dataset 5</a></p>
+<p><a href="food_d6.png">dataset 6</a></p>
 
 </div>
 </div>

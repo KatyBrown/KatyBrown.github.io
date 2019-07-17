@@ -1,0 +1,22 @@
+Country	Number of Samples
+Afghanistan	10
+Bangladesh	8
+Cambodia	10
+China	31
+Ecuador	15
+Ethiopia	19
+India	252
+Iran	58
+Iraq	14
+Kenya	54
+Malaysia	45
+Myanmar	13
+Nigeria	10
+Pakistan	40
+South africa	8
+Sudan	24
+Thailand	82
+Turkey	70
+Uganda	7
+United kingdom	6
+Vietnam	44

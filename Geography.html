@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>Data_Analysis</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Geography</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -11775,7 +11775,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Data">Data<a class="anchor-link" href="#Data">&#182;</a></h2>
+<h1 id="Geography">Geography<a class="anchor-link" href="#Geography">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -11783,21 +11783,13 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Task-1:">Task 1:<a class="anchor-link" href="#Task-1:">&#182;</a></h3>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>These links show the number of reads mapping to 22 different disease causing microbes in each sample.</p>
-<p><a href="1_reads_bar_path.png">dataset 1</a></p>
-<p><a href="2_reads_bar_path.png">dataset 2</a></p>
-<p><a href="3_reads_bar_path.png">dataset 3</a></p>
-<p><a href="4_reads_bar_path.png">dataset 4</a></p>
-<p><a href="5_reads_bar_path.png">dataset 5</a></p>
-<p><a href="6_reads_bar_path.png">dataset 6</a></p>
+<h3 id="Task-4">Task 4<a class="anchor-link" href="#Task-4">&#182;</a></h3><p>Use the information below to find out</p>
+<ol>
+<li><p>What type of animal does your dataset come from?</p>
+</li>
+<li><p>Where does the animal in your dataset live?</p>
+</li>
+</ol>
 
 </div>
 </div>
@@ -11806,7 +11798,12 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Write down the 3 <strong>disease causing</strong> microbes which were <strong>most common</strong> in your sample.</p>
+<p>To help us find out, we can look where the disease-causing microbes in your sample have been seen before in different animals.</p>
+<h3 id="Microbe-Distribution-Maps">Microbe Distribution Maps<a class="anchor-link" href="#Microbe-Distribution-Maps">&#182;</a></h3><p>The links below will show you maps of where each microbe has been seen in each animal before.</p>
+<p>e.g. if you click on Feline leukemia virus under CAT you will see every country where feline leukemia virus has been found in cats</p>
+<p>The countries in the maps below are red if the microbe has been seen there before in the animal you choose.</p>
+<p>The common the microbe is in that animal and country, the darker it will be.</p>
+<p>The tables contain the same information.</p>
 
 </div>
 </div>
@@ -11815,15 +11812,13 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Task-2:">Task 2:<a class="anchor-link" href="#Task-2:">&#182;</a></h3>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>These links show the results as tables.</p>
+<p>Look up your three top disease causing microbes.</p>
+<p><strong>Important: Remember that all your data is from the same animal in the same country.</strong></p>
+<p>You need to find:</p>
+<ul>
+<li>A country which is shared by all three of the microbes</li>
+<li>An animal which can be infected with all three of the microbes</li>
+</ul>
 
 </div>
 </div>
@@ -11832,21 +11827,200 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="1_mapping_tab.txt">dataset 1</a></p>
-<p><a href="2_mapping_tab.txt">dataset 2</a></p>
-<p><a href="3_mapping_tab.txt">dataset 3</a></p>
-<p><a href="4_mapping_tab.txt">dataset 4</a></p>
-<p><a href="5_mapping_tab.txt">dataset 5</a></p>
-<p><a href="6_mapping_tab.txt">dataset 6</a></p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Copy this data into this website: <a href="http://plot.ly/create">plotly</a> and create your own graph.</p>
+<table>
+<thead><tr>
+<th>Microbe</th>
+<th>CAT</th>
+<th>PIG</th>
+<th>DOG</th>
+<th>SHEEP</th>
+<th>HORSE</th>
+<th>COW</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feline leukemia virus</td>
+<td><a href="feline_leukemia_virus_cat.png"> Map</a> <a href="feline_leukemia_virus_cat.txt">Table</a></td>
+<td><a href="feline_leukemia_virus_pig.png"> Map</a>  <a href="feline_leukemia_virus_pig.txt">Table</a></td>
+<td><a href="feline_leukemia_virus_dog.png"> Map</a> <a href="feline_leukemia_virus_dog.txt">Table</a></td>
+<td><a href="feline_leukemia_virus_sheep.png"> Map</a> <a href="feline_leukemia_virus_sheep.txt">Table</a></td>
+<td><a href="feline_leukemia_virus_horse.png"> Map</a> <a href="feline_leukemia_virus_horse.txt">Table</a></td>
+<td><a href="feline_leukemia_virus_cow.png"> Map</a> <a href="feline_leukemia_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Mycoplasma haemofelis</td>
+<td><a href="mycoplasma_haemofelis_cat.png"> Map</a> <a href="mycoplasma_haemofelis_cat.txt">Table</a></td>
+<td><a href="mycoplasma_haemofelis_pig.png"> Map</a> <a href="mycoplasma_haemofelis_pig.txt">Table</a></td>
+<td><a href="mycoplasma_haemofelis_dog.png"> Map</a> <a href="mycoplasma_haemofelis_dog.txt">Table</a></td>
+<td><a href="mycoplasma_haemofelis_sheep.png"> Map</a> <a href="mycoplasma_haemofelis_sheep.txt">Table</a></td>
+<td><a href="mycoplasma_haemofelis_horse.png"> Map</a> <a href="mycoplasma_haemofelis_horse.txt">Table</a></td>
+<td><a href="mycoplasma_haemofelis_cow.png"> Map</a> <a href="mycoplasma_haemofelis_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Bartonella henselae</td>
+<td><a href="bartonella_henselae_cat.png"> Map</a> <a href="bartonella_henselae_cat.txt">Table</a></td>
+<td><a href="bartonella_henselae_pig.png"> Map</a> <a href="bartonella_henselae_pig.txt">Table</a></td>
+<td><a href="bartonella_henselae_dog.png"> Map</a> <a href="bartonella_henselae_dog.txt">Table</a></td>
+<td><a href="bartonella_henselae_sheep.png"> Map</a> <a href="bartonella_henselae_sheep.txt">Table</a></td>
+<td><a href="bartonella_henselae_horse.png"> Map</a> <a href="bartonella_henselae_horse.txt">Table</a></td>
+<td><a href="bartonella_henselae_cow.png"> Map</a> <a href="bartonella_henselae_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Borna disease virus</td>
+<td><a href="borna_disease_virus_cat.png"> Map</a> <a href="borna_disease_virus_cat.txt">Table</a></td>
+<td><a href="borna_disease_virus_pig.png"> Map</a> <a href="borna_disease_virus_pig.txt">Table</a></td>
+<td><a href="borna_disease_virus_dog.png"> Map</a> <a href="borna_disease_virus_dog.txt">Table</a></td>
+<td><a href="borna_disease_virus_sheep.png"> Map</a> <a href="borna_disease_virus_sheep.txt">Table</a></td>
+<td><a href="borna_disease_virus_horse.png"> Map</a> <a href="borna_disease_virus_horse.txt">Table</a></td>
+<td><a href="borna_disease_virus_cow.png"> Map</a> <a href="borna_disease_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Equine infectious anemia virus</td>
+<td><a href="equine_infectious_anemia_virus_cat.png"> Map</a> <a href="equine_infectious_anemia_virus_cat.txt">Table</a></td>
+<td><a href="equine_infectious_anemia_virus_pig.png"> Map</a> <a href="equine_infectious_anemia_virus_pig.txt">Table</a></td>
+<td><a href="equine_infectious_anemia_virus_dog.png"> Map</a> <a href="equine_infectious_anemia_virus_dog.txt">Table</a></td>
+<td><a href="equine_infectious_anemia_virus_sheep.png"> Map</a> <a href="equine_infectious_anemia_virus_sheep.txt">Table</a></td>
+<td><a href="equine_infectious_anemia_virus_horse.png"> Map</a> <a href="equine_infectious_anemia_virus_horse.txt">Table</a></td>
+<td><a href="equine_infectious_anemia_virus_cow.png"> Map</a> <a href="equine_infectious_anemia_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Neorickettsia risticii</td>
+<td><a href="neorickettsia_risticii_cat.png"> Map</a> <a href="neorickettsia_risticii_cat.txt">Table</a></td>
+<td><a href="neorickettsia_risticii_pig.png"> Map</a> <a href="neorickettsia_risticii_pig.txt">Table</a></td>
+<td><a href="neorickettsia_risticii_dog.png"> Map</a> <a href="neorickettsia_risticii_dog.txt">Table</a></td>
+<td><a href="neorickettsia_risticii_sheep.png"> Map</a> <a href="neorickettsia_risticii_sheep.txt">Table</a></td>
+<td><a href="neorickettsia_risticii_horse.png"> Map</a> <a href="neorickettsia_risticii_horse.txt">Table</a></td>
+<td><a href="neorickettsia_risticii_cow.png"> Map</a> <a href="neorickettsia_risticii_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Bartonella visonii</td>
+<td><a href="bartonella_vinsonii_cat.png"> Map</a> <a href="bartonella_vinsonii_cat.txt">Table</a></td>
+<td><a href="bartonella_vinsonii_pig.png"> Map</a> <a href="bartonella_vinsonii_pig.txt">Table</a></td>
+<td><a href="bartonella_vinsonii_dog.png"> Map</a> <a href="bartonella_vinsonii_dog.txt">Table</a></td>
+<td><a href="bartonella_vinsonii_sheep.png"> Map</a> <a href="bartonella_vinsonii_sheep.txt">Table</a></td>
+<td><a href="bartonella_vinsonii_horse.png"> Map</a> <a href="bartonella_vinsonii_horse.txt">Table</a></td>
+<td><a href="bartonella_vinsonii_cow.png"> Map</a> <a href="bartonella_vinsonii_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Canine parvovirus</td>
+<td><a href="canine_parvovirus_cat.png"> Map</a> <a href="canine_parvovirus_cat.txt">Table</a></td>
+<td><a href="canine_parvovirus_pig.png"> Map</a> <a href="canine_parvovirus_pig.txt">Table</a></td>
+<td><a href="canine_parvovirus_dog.png"> Map</a> <a href="canine_parvovirus_dog.txt">Table</a></td>
+<td><a href="canine_parvovirus_sheep.png"> Map</a> <a href="canine_parvovirus_sheep.txt">Table</a></td>
+<td><a href="canine_parvovirus_horse.png"> Map</a> <a href="canine_parvovirus_horse.txt">Table</a></td>
+<td><a href="canine_parvovirus_cow.png"> Map</a> <a href="canine_parvovirus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Rabies lyssavirus</td>
+<td><a href="rabies_lyssavirus_cat.png"> Map</a> <a href="rabies_lyssavirus_cat.txt">Table</a></td>
+<td><a href="rabies_lyssavirus_pig.png"> Map</a> <a href="rabies_lyssavirus_pig.txt">Table</a></td>
+<td><a href="rabies_lyssavirus_dog.png"> Map</a> <a href="rabies_lyssavirus_dog.txt">Table</a></td>
+<td><a href="rabies_lyssavirus_sheep.png"> Map</a> <a href="rabies_lyssavirus_sheep.txt">Table</a></td>
+<td><a href="rabies_lyssavirus_horse.png"> Map</a> <a href="rabies_lyssavirus_horse.txt">Table</a></td>
+<td><a href="rabies_lyssavirus_cow.png"> Map</a> <a href="rabies_lyssavirus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Brucella abortus</td>
+<td><a href="brucella_abortus_cat.png"> Map</a> <a href="brucella_abortus_cat.txt">Table</a></td>
+<td><a href="brucella_abortus_pig.png"> Map</a> <a href="brucella_abortus_pig.txt">Table</a></td>
+<td><a href="brucella_abortus_dog.png"> Map</a> <a href="brucella_abortus_dog.txt">Table</a></td>
+<td><a href="brucella_abortus_sheep.png"> Map</a> <a href="brucella_abortus_sheep.txt">Table</a></td>
+<td><a href="brucella_abortus_horse.png"> Map</a> <a href="brucella_abortus_horse.txt">Table</a></td>
+<td><a href="brucella_abortus_cow.png"> Map</a> <a href="brucella_abortus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Bovine leukemia virus</td>
+<td><a href="bovine_leukemia_virus_cat.png"> Map</a> <a href="bovine_leukemia_virus_cat.txt">Table</a></td>
+<td><a href="bovine_leukemia_virus_pig.png"> Map</a> <a href="bovine_leukemia_virus_pig.txt">Table</a></td>
+<td><a href="bovine_leukemia_virus_dog.png"> Map</a> <a href="bovine_leukemia_virus_dog.txt">Table</a></td>
+<td><a href="bovine_leukemia_virus_sheep.png"> Map</a> <a href="bovine_leukemia_virus_sheep.txt">Table</a></td>
+<td><a href="bovine_leukemia_virus_horse.png"> Map</a> <a href="bovine_leukemia_virus_horse.txt">Table</a></td>
+<td><a href="bovine_leukemia_virus_cow.png"> Map</a> <a href="bovine_leukemia_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Foot and mouth disease virus</td>
+<td><a href="foot_and_mouth_disease_virus_cat.png"> Map</a> <a href="foot_and_mouth_disease_virus_cat.txt">Table</a></td>
+<td><a href="foot_and_mouth_disease_virus_pig.png"> Map</a> <a href="foot_and_mouth_disease_virus_pig.txt">Table</a></td>
+<td><a href="foot_and_mouth_disease_virus_dog.png"> Map</a> <a href="foot_and_mouth_disease_virus_dog.txt">Table</a></td>
+<td><a href="foot_and_mouth_disease_virus_sheep.png"> Map</a> <a href="foot_and_mouth_disease_virus_sheep.txt">Table</a></td>
+<td><a href="foot_and_mouth_disease_virus_horse.png"> Map</a> <a href="foot_and_mouth_disease_virus_horse.txt">Table</a></td>
+<td><a href="foot_and_mouth_disease_virus_cow.png"> Map</a> <a href="foot_and_mouth_disease_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Anaplasma phagocytophilum</td>
+<td><a href="anaplasma_phagocytophilum_cat.png"> Map</a> <a href="anaplasma_phagocytophilum_cat.txt">Table</a></td>
+<td><a href="anaplasma_phagocytophilum_pig.png"> Map</a> <a href="anaplasma_phagocytophilum_pig.txt">Table</a></td>
+<td><a href="anaplasma_phagocytophilum_dog.png"> Map</a> <a href="anaplasma_phagocytophilum_dog.txt">Table</a></td>
+<td><a href="anaplasma_phagocytophilum_sheep.png"> Map</a> <a href="anaplasma_phagocytophilum_sheep.txt">Table</a></td>
+<td><a href="anaplasma_phagocytophilum_horse.png"> Map</a> <a href="anaplasma_phagocytophilum_horse.txt">Table</a></td>
+<td><a href="anaplasma_phagocytophilum_cow.png"> Map</a> <a href="anaplasma_phagocytophilum_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Escherichia coli</td>
+<td><a href="escherichia_coli_cat.png"> Map</a> <a href="escherichia_coli_cat.txt">Table</a></td>
+<td><a href="escherichia_coli_pig.png"> Map</a> <a href="escherichia_coli_pig.txt">Table</a></td>
+<td><a href="escherichia_coli_dog.png"> Map</a> <a href="escherichia_coli_dog.txt">Table</a></td>
+<td><a href="escherichia_coli_sheep.png"> Map</a> <a href="escherichia_coli_sheep.txt">Table</a></td>
+<td><a href="escherichia_coli_horse.png"> Map</a> <a href="escherichia_coli_horse.txt">Table</a></td>
+<td><a href="escherichia_coli_cow.png"> Map</a> <a href="escherichia_coli_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Visna virus</td>
+<td><a href="visna_virus_cat.png"> Map</a> <a href="visna_virus_cat.txt">Table</a></td>
+<td><a href="visna_virus_pig.png"> Map</a> <a href="visna_virus_pig.txt">Table</a></td>
+<td><a href="visna_virus_dog.png"> Map</a> <a href="visna_virus_dog.txt">Table</a></td>
+<td><a href="visna_virus_sheep.png"> Map</a> <a href="visna_virus_sheep.txt">Table</a></td>
+<td><a href="visna_virus_horse.png"> Map</a> <a href="visna_virus_horse.txt">Table</a></td>
+<td><a href="visna_virus_cow.png"> Map</a> <a href="visna_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Classical swine fever virus</td>
+<td><a href="classical_swine_fever_virus_cat.png"> Map</a> <a href="classical_swine_fever_virus_cat.txt">Table</a></td>
+<td><a href="classical_swine_fever_virus_pig.png"> Map</a> <a href="classical_swine_fever_virus_pig.txt">Table</a></td>
+<td><a href="classical_swine_fever_virus_dog.png"> Map</a> <a href="classical_swine_fever_virus_dog.txt">Table</a></td>
+<td><a href="classical_swine_fever_virus_sheep.png"> Map</a> <a href="classical_swine_fever_virus_sheep.txt">Table</a></td>
+<td><a href="classical_swine_fever_virus_horse.png"> Map</a> <a href="classical_swine_fever_virus_horse.txt">Table</a></td>
+<td><a href="classical_swine_fever_virus_cow.png"> Map</a> <a href="classical_swine_fever_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Hepatitis E virus</td>
+<td><a href="hepatitis_e_virus_cat.png"> Map</a> <a href="hepatitis_e_virus_cat.txt">Table</a></td>
+<td><a href="hepatitis_e_virus_pig.png"> Map</a> <a href="hepatitis_e_virus_pig.txt">Table</a></td>
+<td><a href="hepatitis_e_virus_dog.png"> Map</a> <a href="hepatitis_e_virus_dog.txt">Table</a></td>
+<td><a href="hepatitis_e_virus_sheep.png"> Map</a> <a href="hepatitis_e_virus_sheep.txt">Table</a></td>
+<td><a href="hepatitis_e_virus_horse.png"> Map</a> <a href="hepatitis_e_virus_horse.txt">Table</a></td>
+<td><a href="hepatitis_e_virus_cow.png"> Map</a> <a href="hepatitis_e_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Brucella suis</td>
+<td><a href="brucella_suis_cat.png"> Map</a> <a href="brucella_suis_cat.txt">Table</a></td>
+<td><a href="brucella_suis_pig.png"> Map</a> <a href="brucella_suis_pig.txt">Table</a></td>
+<td><a href="brucella_suis_dog.png"> Map</a> <a href="brucella_suis_dog.txt">Table</a></td>
+<td><a href="brucella_suis_sheep.png"> Map</a> <a href="brucella_suis_sheep.txt">Table</a></td>
+<td><a href="brucella_suis_horse.png"> Map</a> <a href="brucella_suis_horse.txt">Table</a></td>
+<td><a href="brucella_suis_cow.png"> Map</a> <a href="brucella_suis_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Influenza A virus</td>
+<td><a href="influenza_a_virus_cat.png"> Map</a> <a href="influenza_a_virus_cat.txt">Table</a></td>
+<td><a href="influenza_a_virus_pig.png"> Map</a> <a href="influenza_a_virus_pig.txt">Table</a></td>
+<td><a href="influenza_a_virus_dog.png"> Map</a> <a href="influenza_a_virus_dog.txt">Table</a></td>
+<td><a href="influenza_a_virus_sheep.png"> Map</a> <a href="influenza_a_virus_sheep.txt">Table</a></td>
+<td><a href="influenza_a_virus_horse.png"> Map</a> <a href="influenza_a_virus_horse.txt">Table</a></td>
+<td><a href="influenza_a_virus_cow.png"> Map</a> <a href="influenza_a_virus_cow.txt">Table</a></td>
+</tr>
+<tr>
+<td>Torque teno sus virus</td>
+<td><a href="torque_teno_sus_virus_cat.png"> Map</a> <a href="torque_teno_sus_virus_cat.txt">Table</a></td>
+<td><a href="torque_teno_sus_virus_pig.png"> Map</a> <a href="torque_teno_sus_virus_pig.txt">Table</a></td>
+<td><a href="torque_teno_sus_virus_dog.png"> Map</a> <a href="torque_teno_sus_virus_dog.txt">Table</a></td>
+<td><a href="torque_teno_sus_virus_sheep.png"> Map</a> <a href="torque_teno_sus_virus_sheep.txt">Table</a></td>
+<td><a href="torque_teno_sus_virus_horse.png"> Map</a> <a href="torque_teno_sus_virus_horse.txt">Table</a></td>
+<td><a href="torque_teno_sus_virus_cow.png"> Map</a> <a href="torque_teno_sus_virus_cow.txt">Table</a></td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </div>

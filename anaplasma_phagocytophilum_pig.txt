@@ -1,0 +1,2 @@
+Country	Number of Samples
+Poland	7

@@ -1,0 +1,4 @@
+Country	Number of Samples
+Germany	66
+Slovenia	10
+Switzerland	8

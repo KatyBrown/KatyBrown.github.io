@@ -1,0 +1,8 @@
+Country	Number of Samples
+Argentina	26
+Brazil	32
+Chile	8
+Japan	47
+Poland	6
+Russia	25
+Turkey	10

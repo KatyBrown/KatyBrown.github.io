@@ -1,0 +1,16 @@
+Country	Number of Samples
+Argentina	14
+Bangladesh	8
+Botswana	7
+Brazil	330
+China	7
+Colombia	22
+Cuba	10
+India	10
+Israel	10
+Mexico	42
+Mongolia	7
+Poland	6
+South africa	10
+South korea	17
+Sudan	7

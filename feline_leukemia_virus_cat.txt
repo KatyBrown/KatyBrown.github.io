@@ -1,0 +1,3 @@
+Country	Number of Samples
+Brazil	44
+United states of america	11

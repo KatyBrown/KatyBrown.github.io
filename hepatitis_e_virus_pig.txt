@@ -1,0 +1,18 @@
+Country	Number of Samples
+Brazil	11
+China	130
+Czechia	9
+France	54
+Germany	10
+Hungary	28
+India	11
+Italy	27
+Japan	40
+New caledonia	14
+Slovenia	11
+South korea	18
+Spain	95
+Sweden	61
+Thailand	20
+United kingdom	6
+United states of america	9

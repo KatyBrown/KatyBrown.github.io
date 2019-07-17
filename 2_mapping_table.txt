@@ -1,0 +1,21 @@
+	Reference Microbe	Number of Reads in Sample
+0	Canine_parvovirus	0
+1	Brucella_abortus	0
+2	Visna_virus	20
+3	Neorickettsia_risticii	2823
+4	Foot_and_mouth_disease_virus	0
+5	Bartonella_vinsonii	33
+6	Borna_disease_virus	3932
+7	Equine_infectious_anemia_virus	1062
+8	Bartonella_henselae	42
+9	Classical_swine_fever_virus	0
+10	Anaplasma_phagocytophilum	0
+11	Brucella_suis	42
+12	Escherichia_coli	0
+13	Bovine_leukemia_virus	0
+14	Influenza_A_virus	0
+15	Hepatitis_E_virus	0
+16	Mycoplasma_haemofelis	0
+17	Torque_teno_sus_virus	0
+18	Rabies_lyssavirus	12
+19	Feline_leukemia_virus	0

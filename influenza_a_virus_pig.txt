@@ -1,0 +1,18 @@
+Country	Number of Samples
+Argentina	24
+Australia	32
+Belgium	28
+Canada	72
+China	1581
+Denmark	8
+France	12
+Germany	64
+Italy	38
+Mexico	8
+South korea	208
+Spain	48
+Sweden	8
+Taiwan	63
+Thailand	88
+United kingdom	16
+United states of america	989

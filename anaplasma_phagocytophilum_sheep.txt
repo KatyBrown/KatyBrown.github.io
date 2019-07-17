@@ -1,0 +1,5 @@
+Country	Number of Samples
+Austria	6
+China	116
+Germany	22
+Norway	89

@@ -1,0 +1,3 @@
+Country	Number of Samples
+Germany	16
+Switzerland	7

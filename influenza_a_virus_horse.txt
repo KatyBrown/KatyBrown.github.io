@@ -1,0 +1,6 @@
+Country	Number of Samples
+China	72
+Czechia	8
+Egypt	7
+Kazakhstan	8
+United states of america	264

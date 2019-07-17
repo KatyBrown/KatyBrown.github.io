@@ -1,0 +1,8 @@
+Country	Number of Samples
+Brazil	14
+Colombia	12
+Cuba	17
+Poland	7
+Romania	7
+Thailand	12
+Ukraine	7

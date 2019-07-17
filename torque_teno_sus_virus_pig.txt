@@ -1,0 +1,19 @@
+Country	Number of Samples
+Argentina	15
+Australia	28
+Canada	17
+Chile	33
+China	42
+Czechia	16
+Germany	25
+Japan	18
+Macedonia	28
+Mozambique	6
+Netherlands	6
+Norway	23
+Slovakia	8
+South korea	33
+Spain	115
+Thailand	19
+United kingdom	14
+United states of america	13
