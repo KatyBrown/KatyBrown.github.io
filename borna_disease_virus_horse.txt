@@ -1,3 +1,4 @@
 Country	Number of Samples
 Germany	16
 Switzerland	7
+United States of America 22
