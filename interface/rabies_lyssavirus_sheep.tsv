@@ -1,9 +1,0 @@
-host_name	host_scientific_name	microbe_name	microbe_type	country	number_of_samples
-sheep	ovis_aries	anaplasma_phagocytophilum	bacteria	austria	6.0
-sheep	ovis_aries	anaplasma_phagocytophilum	bacteria	china	116.0
-sheep	ovis_aries	anaplasma_phagocytophilum	bacteria	germany	22.0
-sheep	ovis_aries	anaplasma_phagocytophilum	bacteria	norway	89.0
-sheep	ovis_aries	escherichia_coli	bacteria	china	21.0
-sheep	ovis_aries	hepatitis_e_virus	viruses	china	6.0
-sheep	ovis_aries	visna_virus	viruses	greece	20.0
-sheep	ovis_aries	visna_virus	viruses	spain	11.0
