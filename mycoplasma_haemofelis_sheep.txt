@@ -1,1 +1,2 @@
-No results!
+Country	Number of Samples
+Indonesia	25
